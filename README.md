@@ -1,8 +1,9 @@
 # Hi there, I'm Satyam 👋
 
-![Banner Video](VID.mp4)
-<video src="https://raw.githubusercontent.com/your-username/your-repo/main/video.mp4" controls></video>
-
+<video width="100%" height="400" controls>
+  <source src="https://your-github-username.github.io/your-repo-name/VID.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🚀 About Me
 I'm a passionate MERN stack developer who loves building full-stack applications and exploring new technologies. My expertise includes MongoDB, Express.js, React.js, and Node.js, along with other web development tools.
