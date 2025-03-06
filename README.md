@@ -7,7 +7,7 @@ I'm a passionate MERN stack developer who loves building full-stack applications
 
 ## 🌍 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-pandey-0b246432a/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/SatyamPandey-07)
 
 ## 💻 Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
