@@ -1,7 +1,7 @@
 # Hi there, I'm Satyam 👋
 
 <video width="100%" height="400" controls>
-  <source src="https://github.com/SatyamPandey-07/SatyamPandey-07/blob/main/VID.mp4" type="video/mp4">
+  <source src="https://SatyamPandey-07.github.io/SatyamPandey-07/VID.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
