@@ -1,9 +1,6 @@
 # Hi there, I'm Satyam 👋
 
-<video width="100%" height="400" controls>
-  <source src="https://SatyamPandey-07.github.io/SatyamPandey-07/VID.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the Video](https://via.placeholder.com/800x400.png?text=Click+to+Watch+Video)](https://SatyamPandey-07.github.io/SatyamPandey-07/docs/VID.mp4)
 
 ## 🚀 About Me
 I'm a passionate MERN stack developer who loves building full-stack applications and exploring new technologies. My expertise includes MongoDB, Express.js, React.js, and Node.js, along with other web development tools.
