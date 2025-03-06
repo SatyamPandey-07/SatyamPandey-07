@@ -1,6 +1,8 @@
 # Hi there, I'm Satyam 👋
 
-![Banner Image](https://images.app.goo.gl/ZhJgkrqxZUsDkT266)
+![Banner Video](VID.mp4)
+<video src="https://raw.githubusercontent.com/your-username/your-repo/main/video.mp4" controls></video>
+
 
 ## 🚀 About Me
 I'm a passionate MERN stack developer who loves building full-stack applications and exploring new technologies. My expertise includes MongoDB, Express.js, React.js, and Node.js, along with other web development tools.
