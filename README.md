@@ -14,7 +14,11 @@
 ### 🏗️ **About Me**  
 🔹 MERN Stack Developer | 💡 Open Source Contributor | 🎨 UI Enthusiast  
 🔹 Love solving real-world problems through **scalable web applications**  
-🔹 Passionate about **TypeScript, Tailwind CSS, Docker**, and new technologies  
+🔹 Passionate about **TypeScript, Tailwind CSS, Docker**, and new technologies 
+- 🔭 I’m currently working on exciting projects in *React & Web Development*.  
+- 🌱 I’m learning *Data Structures & Algorithms (DSA)* and *Backend Development*.  
+- 💬 Ask me about *JavaScript, React, and Problem Solving*.
+
 
 ---
 
@@ -41,6 +45,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SatyamPandey-07&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=SatyamPandey-07&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamPandey-07&theme=tokyonight" />
+  <div align="center">
+  <a href="https://github.com/SatyamPandey-07">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamPandey-07&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>  
 </div>
 
 ---
@@ -65,7 +74,7 @@
 
 ## 🏆 **GitHub Trophies**  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SatyamPandey-07&theme=radical&no-frame=true&no-bg=true&margin-w=10">
+  <img src="https://github-profile-trophy.vercel.app/?username=SatyamPandey-07&theme=tokyonight&no-frame=true&margin-w=10&row=1">
 </p>
 
 ---
@@ -88,7 +97,6 @@ If you want a **3D GitHub contribution graph**
 ```md
 [![Satyam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatyamPandey-07&theme=dracula)](https://github.com/SatyamPandey-07)
 ```
-
 
 
 
