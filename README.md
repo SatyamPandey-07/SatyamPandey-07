@@ -1,16 +1,16 @@
 # 🚀 **Hi there, I'm Satyam!** 👋  
-
+*MERN Stack Developer | Open Source Contributor | UI Perfectionist*  
+---
 <p align="center">
   <img src="https://your-correct-gif-url.com/preview.gif" alt="Coding Preview" width="80%">
 </p>
 
-
----
-![Coding Preview](https://user-attachments/assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.com/preview.gif)
-![Image](https://github.com/user-attachments/assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92)
-
 ---
 
+![🔥 Coding Vibes](https://user-attachments/assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.com/preview.gif)  
+![💻 Hustling Hard](https://github.com/user-attachments/assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92)
+
+---
 ### 🏗️ **About Me**  
 🔹 MERN Stack Developer | 💡 Open Source Contributor | 🎨 UI Enthusiast  
 🔹 Love solving real-world problems through **scalable web applications**  
@@ -31,28 +31,46 @@
 ---
 
 ### 💻 **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,typescript,javascript,tailwind,docker,firebase" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,typescript,javascript,nextjs,tailwind,docker,github,git,firebase,vscode,figma,vercel,graphql,postman,java,html,css,sass,bootstrap,cpp,c,npm,yarn,python,go,flutter,django" /> </p>
+
 
 ---
 
 ### 📊 **GitHub Stats**
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SatyamPandey-07&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=SatyamPandey-07&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SatyamPandey-07&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=SatyamPandey-07&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamPandey-07&theme=tokyonight" />
 </div>
 
 ---
 
 ### 🔥 **Top Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamPandey-07&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamPandey-07&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
-### 🎯 **Fun Facts About Me**
+
+👉 Check out all my projects here: **[GitHub Repos](https://github.com/SatyamPandey-07?tab=repositories)**  
+
+---
+## 🎯 **What I’m Currently Learning**  
+✅ **Three.js** – To build cool 3D experiences  
+✅ **T3 Stack (Next.js + tRPC + Prisma)** – To scale modern web apps  
+✅ **AI & ML Integration** – Bringing AI into web applications  
+
+---
+
+## 🏆 **GitHub Trophies**  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SatyamPandey-07&theme=radical&no-frame=true&no-bg=true&margin-w=10">
+</p>
+
+---
+
+### 🎯 **Fun Facts About Me**  
 ✅ **Coding keeps me alive** – I can sit and build projects for hours  
 ✅ I love **clean, minimalist UI** with smooth animations  
 ✅ **Always learning** something new every day!  
@@ -60,16 +78,17 @@
 ---
 
 💖 **Drop a star** ⭐ on my repositories if you like my work! 🚀  
-Let’s build something awesome together. Happy coding! 🎉
+Let’s build something awesome together. Happy coding! 🎉  
 
 ---
 
 ### 🔥 **Bonus**
-If you want a **3D GitHub contribution graph**, add this to your README:
+If you want a **3D GitHub contribution graph**
 
 ```md
 [![Satyam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SatyamPandey-07&theme=dracula)](https://github.com/SatyamPandey-07)
 ```
+
 
 
 
