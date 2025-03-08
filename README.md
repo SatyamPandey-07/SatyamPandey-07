@@ -1,5 +1,5 @@
 # 🚀 **Hi there, I'm Satyam!** 👋  
-*MERN Stack Developer | Open Source Contributor | UI Perfectionist*  
+*MERN Stack Developer | UI Perfectionist*  
 ---
 <p align="center">
   <img src="https://your-correct-gif-url.com/preview.gif" alt="Coding Preview" width="80%">
