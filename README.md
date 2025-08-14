@@ -88,14 +88,14 @@
 <div align="center">
   
 ### ☕ **Buy Me a Coffee (Click to Pay via GPay)**
-<a href="./assets/gpay-qr.png" target="_blank">
+<a href="./gpay-qr.png" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee - Pay via GPay" height="60px" width="217px">
 </a>
 
 ### 📱 **GPay QR Code**
 <div align="center">
-  <a href="./assets/gpay-qr.png" target="_blank">
-    <img src="./assets/gpay-qr.png" alt="GPay QR Code - UPI ID: pandeysatyam1802@okhdfcbank" width="200px" height="200px" style="border: 2px solid #4285F4; border-radius: 10px; padding: 10px; background: white;">
+  <a href="./gpay-qr.png" target="_blank">
+    <img src="./gpay-qr.png" alt="GPay QR Code - UPI ID: pandeysatyam1802@okhdfcbank" width="200px" height="200px" style="border: 2px solid #4285F4; border-radius: 10px; padding: 10px; background: white;">
   </a>
 </div>
 
