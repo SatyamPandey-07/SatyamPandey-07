@@ -9,8 +9,15 @@
 
 ---
 
-![🔥 Coding Vibes](https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif)  
-![💻 Hustling Hard](https://github.com/user-attachments/assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92)
+<!-- Animated Coding GIFs -->
+<div align="center">
+  <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" alt="🔥 Coding Vibes" width="45%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="💻 Hustling Hard" width="45%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Engineer;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+</div>
 
 ---
 
@@ -23,14 +30,14 @@
 - 🔭 I'm currently working on exciting projects in **React, AI/ML, and Data Science**.  
 - 🌱 I'm learning **Advanced AI/ML, RAG Systems, IBM Watson**, and **Cloud Architecture**.  
 - 💬 Ask me about **JavaScript, Python, React, Machine Learning, and Problem Solving**.  
-- ⚡ Fun fact: I can build **full-stack applications** and **train ML models** in the same day! 🚀  
+- ⚡ Fun fact: I can build **full-stack applications** and **train ML models** in the same day! 
 
 ---
 
 ## 🎯 **Featured Projects** 
 
 ### 🤖 **ResearchAgent - AI-Powered Research Assistant**
-[![ResearchAgent](https://img.shields.io/badge/🤖%20ResearchAgent-AI%20Research%20Assistant-blue)](https://github.com/SatyamPandey-07/ResearchAgent)
+[![ResearchAgent](https://img.shields.io/badge/🤖%20ResearchAgent-AI%20Research%20Assistant-blue)](https://github.com/SatyamPandey-07/ResearchAgent-)
 > **Advanced AI research assistant with RAG implementation**
 - 🧠 **Technologies**: Python, LangChain, OpenAI, Streamlit, Vector Databases
 - 🎯 **Features**: Intelligent research, document analysis, contextual Q&A
@@ -181,31 +188,29 @@
 ✅ **T3 Stack**: Next.js + tRPC + Prisma + TypeScript  
 ✅ **Three.js**: 3D Web Experiences and Interactive Visualizations  
 ✅ **IBM Watson**: Enterprise AI Solutions and Cognitive Services  
-✅ **Blockchain**: Web3 Development and Smart Contracts  
+ 
 
 ---
 
 ## 💼 **Professional Experience**
 ### 🚀 **Key Achievements**
-- 🏆 **4 Major Projects** deployed in production with 50k+ users combined
+- 🏆 **4 Major Projects** deployed in production with 5+ users combined
 - 🤖 **AI/ML Expertise** in Computer Vision, NLP, and Data Science
 - 🌐 **Full Stack Mastery** from React frontends to Python backends
-- ☁️ **Cloud Solutions** with AWS, Vercel, and modern deployment strategies
+- ☁️ **Cloud Solutions** with IBM Cloud, Vercel, and modern deployment strategies
 - 📊 **Data Analytics** processing 1M+ records with real-time insights
 
 ### 🎯 **Core Competencies**
 - **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS, responsive design
-- **Backend**: Node.js, Python, Express.js, Django, RESTful APIs
+- **Backend**: Node.js, Python, Express.js, Django, RESTful APIs,Scala
 - **Database**: MongoDB, PostgreSQL, Redis, Vector Databases
 - **AI/ML**: TensorFlow, PyTorch, scikit-learn, Computer Vision, NLP
-- **DevOps**: Docker, AWS, CI/CD, Git workflows, deployment automation
 
 ---
 
 ## 🌟 **Community & Open Source**
 ### 📚 **Knowledge Sharing**
 - 🔗 Regular contributor to open-source projects
-- 📝 Technical blog posts on AI/ML and web development
 - 🎯 Mentoring aspiring developers in MERN stack and Python
 - 🏆 Active participant in hackathons and coding competitions
 
@@ -226,11 +231,49 @@
 
 ---
 
-## 📊 **LeetCode Stats**
+## 📊 **LeetCode Journey**
+
+### 🎯 **LeetCode Badges & Achievements**
+<div align="center">
+  
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Satyampandey1802/)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-Check%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Satyampandey1802/)
+[![Contest Rating](https://img.shields.io/badge/Contest%20Rating-View%20Stats-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Satyampandey1802/)
+
+</div>
+
+### 📈 **Coding Stats & Progress**
+<div align="center">
+  
+<!-- LeetCode Stats Card -->
+<a href="https://leetcode.com/u/Satyampandey1802/">
+  <img src="https://leetcard.jacoblin.cool/Satyampandey1802?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+</a>
+
+</div>
+
+### 🏆 **Problem Solving Breakdown**
+<div align="center">
+  
+![LeetCode Easy](https://img.shields.io/badge/Easy-Solved-success?style=flat-square&logo=leetcode&logoColor=white)
+![LeetCode Medium](https://img.shields.io/badge/Medium-Solved-warning?style=flat-square&logo=leetcode&logoColor=white)
+![LeetCode Hard](https://img.shields.io/badge/Hard-Solved-critical?style=flat-square&logo=leetcode&logoColor=white)
+
+</div>
+
+### 🎖️ **Achievements**
+<div align="center">
+  
+[![50 Days Badge](https://img.shields.io/badge/50%20Days-Badge%202024-blue?style=plastic&logo=leetcode)](https://leetcode.com/u/Satyampandey1802/)
+[![100 Days Badge](https://img.shields.io/badge/100%20Days-Badge%202024-green?style=plastic&logo=leetcode)](https://leetcode.com/u/Satyampandey1802/)
+[![Annual Badge](https://img.shields.io/badge/Annual-Badge%202024-gold?style=plastic&logo=leetcode)](https://leetcode.com/u/Satyampandey1802/)
+
+</div>
+
+### 💪 **Coding Consistency**
 <p align="center">
-  <a href="https://leetcode.com/u/Satyampandey1802/">
-    <img src="https://leetcard.jacoblin.cool/Satyampandey1802?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats">
-  </a>
+  <em>"Consistency is key to mastering algorithms and data structures!"</em><br>
+  <strong>🔥 Current Streak | 📊 Total Problems | 🏅 Contest Participation</strong>
 </p>
 
 ---
@@ -247,7 +290,7 @@
 - ☁️ Cloud architecture and deployment
 
 ### 📬 **Get in Touch:**
-📧 **Email**: satyampandey.dev@gmail.com  
+📧 **Email**:satyampandey1802@gmail.com  
 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/satyam-pandey-0b246432a/)  
 🐙 **GitHub**: [Follow my journey](https://github.com/SatyamPandey-07)  
 ⚡ **LeetCode**: [See my progress](https://leetcode.com/u/Satyampandey1802/)  
@@ -258,7 +301,7 @@
 
 ### 🎯 **Quick Links**
 👉 Check out all my projects here: **[GitHub Repos](https://github.com/SatyamPandey-07?tab=repositories)**  
-👉 View my **[ResearchAgent](https://github.com/SatyamPandey-07/ResearchAgent)** - AI Research Assistant  
+👉 View my **[ResearchAgent](https://github.com/SatyamPandey-07/ResearchAgent-)** - AI Research Assistant  
 👉 Explore **[Tree Classification](https://github.com/SatyamPandey-07/TREE_SPECIES_CLASSIFICATION)** - ML Intelligence  
 👉 Try **[TMS Platform](https://github.com/SatyamPandey-07/TURF_MANAGEMENT_SYSTEM)** - Enterprise Management  
 👉 Check **[Library System](https://library-management-system-new-final.vercel.app/)** - Live Demo  
