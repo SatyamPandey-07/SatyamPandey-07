@@ -9,6 +9,14 @@
 
 ---
 
+![🔥 Coding Vibes](https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif)  
+![💻 Hustling Hard](https://github.com/user-attachments/assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92)
+
+---
+
+
+---
+
 <!-- Animated Coding GIFs -->
 <div align="center">
   <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" alt="🔥 Coding Vibes" width="45%" />
