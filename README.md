@@ -87,18 +87,36 @@
 ## 💰 **Support My Work**
 <div align="center">
   
-### ☕ **Buy Me a Coffee**
-<a href="https://www.buymeacoffee.com/satyampandey07" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
+### ☕ **Buy Me a Coffee (Click to Pay via GPay)**
+<a href="./assets/gpay-qr.png" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee - Pay via GPay" height="60px" width="217px">
 </a>
 
-### 💖 **Other Ways to Support**
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/SatyamPandey-07)
+### 📱 **GPay QR Code**
+<div align="center">
+  <a href="./assets/gpay-qr.png" target="_blank">
+    <img src="./assets/gpay-qr.png" alt="GPay QR Code - UPI ID: pandeysatyam1802@okhdfcbank" width="200px" height="200px" style="border: 2px solid #4285F4; border-radius: 10px; padding: 10px; background: white;">
+  </a>
+</div>
+
+**UPI ID:** `pandeysatyam1802@okhdfcbank`
+
+### � **Quick Payment Options**
+<div align="center">
+  
+[![GPay](https://img.shields.io/badge/Google%20Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)](upi://pay?pa=pandeysatyam1802@okhdfcbank&pn=Satyam%20Pandey&cu=INR)
+[![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=for-the-badge&logo=phonepe&logoColor=white)](upi://pay?pa=pandeysatyam1802@okhdfcbank&pn=Satyam%20Pandey&cu=INR)
+[![Paytm](https://img.shields.io/badge/Paytm-1C39BB?style=for-the-badge&logo=paytm&logoColor=white)](upi://pay?pa=pandeysatyam1802@okhdfcbank&pn=Satyam%20Pandey&cu=INR)
+
+</div>
+
+### 🌍 **International Support**
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/satyampandey07)
 
 </div>
 
-*If you find my projects helpful or want to support my open-source work, your support means the world to me! ☕*
+*If you find my projects helpful or want to support my open-source work, your support means the world to me! 🙏*  
+*For Indian users, GPay/UPI is the easiest way to support! 🇮🇳*
 
 ---
 
