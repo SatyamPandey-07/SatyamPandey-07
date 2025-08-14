@@ -85,13 +85,20 @@
 ---
 
 ## 💰 **Support My Work**
-<p align="center">
-  <a href="https://www.buymeacoffee.com/satyampandey" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
-  </a>
-</p>
+<div align="center">
+  
+### ☕ **Buy Me a Coffee**
+<a href="https://www.buymeacoffee.com/satyampandey07" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
+</a>
 
-*If you find my projects helpful or want to support my open-source work, consider buying me a coffee! ☕*
+### 💖 **Other Ways to Support**
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/SatyamPandey-07)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/satyampandey07)
+
+</div>
+
+*If you find my projects helpful or want to support my open-source work, your support means the world to me! ☕*
 
 ---
 
