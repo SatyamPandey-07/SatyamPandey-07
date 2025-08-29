@@ -10,7 +10,7 @@
 ---
 
 <!-- Animated Coding GIFs -->
-<div align="center">
+<div style="text-align: center;">
   <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" alt="🔥 Coding Vibes" width="45%" />
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="💻 Hustling Hard" width="45%" />
 </div>
