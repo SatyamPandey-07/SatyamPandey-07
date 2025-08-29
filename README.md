@@ -10,7 +10,18 @@
 ---
 
 <!-- Animated Coding GIFs -->
-<div align="center"> <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" alt="🔥 Coding Vibes" width="45%" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="💻 Hustling Hard" width="45%" /> </div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; padding: 50px;">
+  <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" alt="🔥 Coding Vibes" width="45%" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="💻 Hustling Hard" width="45%" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+</div>
+
+<!-- Add some hover effects -->
+<style>
+  div img:hover {
+    transform: scale(1.1);
+  }
+</style>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Engineer;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
