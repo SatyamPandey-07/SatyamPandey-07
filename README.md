@@ -191,10 +191,9 @@
 </p>
 
 ---
-
-## 🏆 **GitHub Trophies**  
+##  GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SatyamPandey-07&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=6">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SatyamPandey-07&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </p>
 
 ---
