@@ -8,36 +8,12 @@
 ---
 
 <!-- Animated Coding GIFs -->
-<div align="center"> <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" alt="🔥 Coding Vibes" width="55%" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="💻 Hustling Hard" width="55%" /> </div>
+<div align="center"> <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" alt="🔥 Coding Vibes" width="100%" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="💻 Hustling Hard" width="100%" /> </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Engineer;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
----
 
-<div align="center">
-  
-  <!-- Hero Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%A4%96+AI%2FML+Engineer;%F0%9F%94%A5+Problem+Solver;%F0%9F%92%A1+Always+Learning;%F0%9F%8C%9F+Building+Tomorrow" alt="Typing Animation" />
-  
-  <br/><br/>
-  
-  <!-- Main Coding GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding" width="60%" />
-  
-  <br/><br/>
-  
-  <!-- Secondary GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech" width="50%" />
-  
-  <br/><br/>
-  
-  <!-- Animated Wave Divider -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-</div>
-
----
 ---
 
 ### 🏗️ **About Me**  
