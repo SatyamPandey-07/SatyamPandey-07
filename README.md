@@ -30,41 +30,6 @@
 
 ---
 
-## 🎯 **Featured Projects** 
-
-### 🤖 **ResearchAgent - AI-Powered Research Assistant**
-[![ResearchAgent](https://img.shields.io/badge/🤖%20ResearchAgent-AI%20Research%20Assistant-blue)](https://github.com/SatyamPandey-07/ResearchAgent-)
-> **Advanced AI research assistant with RAG implementation**
-- 🧠 **Technologies**: Python, LangChain, OpenAI, Streamlit, Vector Databases
-- 🎯 **Features**: Intelligent research, document analysis, contextual Q&A
-- ⭐ **Impact**: Automated research workflows with 90% accuracy improvement
-
-### 🌳 **Tree Species Classification - AI/ML Intelligence**
-[![Tree Classification](https://img.shields.io/badge/🌳%20Tree%20Classification-ML%20Intelligence-green)](https://github.com/SatyamPandey-07/TREE_SPECIES_CLASSIFICATION)
-> **Advanced ML system for tree species identification using computer vision**
-- 🧠 **Technologies**: TensorFlow, CNN, scikit-learn, OpenCV, Streamlit
-- 🎯 **Features**: Image classification, location-based recommendations, species distribution mapping
-- 📊 **Dataset**: 1.38M+ tree records, 30+ species, geospatial analysis
-- ⭐ **Achievement**: 85% accuracy with real-world deployment
-
-### 🏟️ **TMS - Advanced Turf Management System**
-[![TMS](https://img.shields.io/badge/🏟️%20TMS-Turf%20Management-purple)](https://github.com/SatyamPandey-07/TURF_MANAGEMENT_SYSTEM)
-> **Enterprise-grade turf booking platform with AI assistance**
-- 🧠 **Technologies**: Next.js 15, TypeScript, MongoDB, NextAuth, AI Chatbot
-- 🎯 **Features**: Real-time booking, business analytics, AI assistant, payment integration
-- 🎨 **Design**: Awwwards-level UI/UX with dark/light themes
-- ⭐ **Scale**: Supports 50+ facilities, 95% uptime, sub-2s load times
-
-### 📚 **Library Management System - Modern Web Application**
-[![Library System](https://img.shields.io/badge/📚%20Library%20System-Web%20Application-orange)](https://github.com/SatyamPandey-07/library-management-system-new-final)
-> **Full-stack library management with modern UI and JWT authentication**
-- 🧠 **Technologies**: React, Node.js, Express, MongoDB, JWT, Tailwind CSS
-- 🎯 **Features**: Role-based access, email verification, responsive design, dark mode
-- 🎨 **UI/UX**: GitHub-themed interface with Framer Motion animations
-- ⭐ **Deployment**: [Live Demo](https://library-management-system-new-final.vercel.app/)
-
----
-
 ## 🌍 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/satyam-pandey-0b246432a/">
@@ -88,20 +53,7 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee - Pay via GPay" height="60px" width="217px">
 </a>
 
-
 **UPI ID:** `pandeysatyam1802@okhdfcbank`
-
-### � **Quick Payment Options**
-<div align="center">
-  
-[![GPay](https://img.shields.io/badge/Google%20Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)](upi://pay?pa=pandeysatyam1802@okhdfcbank&pn=Satyam%20Pandey&cu=INR)
-[![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=for-the-badge&logo=phonepe&logoColor=white)](upi://pay?pa=pandeysatyam1802@okhdfcbank&pn=Satyam%20Pandey&cu=INR)
-[![Paytm](https://img.shields.io/badge/Paytm-1C39BB?style=for-the-badge&logo=paytm&logoColor=white)](upi://pay?pa=pandeysatyam1802@okhdfcbank&pn=Satyam%20Pandey&cu=INR)
-
-</div>
-
-### 🌍 **International Support**
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/satyampandey07)
 
 </div>
 
