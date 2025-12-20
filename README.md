@@ -4,6 +4,8 @@
 ---
 
 
+![💻 Hustling Hard](https://github.com/user-attachments/assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92)
+
 ---
 
 <!-- Animated Coding GIFs -->
