@@ -119,12 +119,6 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamPandey-07&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/SatyamPandey-07">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamPandey-07&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
 ---
 
 ## 🔥 **Top Languages**
