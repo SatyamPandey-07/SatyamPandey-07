@@ -127,15 +127,6 @@
 </p>
 
 ---
-
-## 🔥 **Top Languages**
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamPandey-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-readme-stats"
-  />
-</p>
-
----
 ##  GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SatyamPandey-07&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
