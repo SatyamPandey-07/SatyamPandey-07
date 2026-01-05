@@ -127,16 +127,13 @@
 </p>
 
 ---
-## 📊 **GitHub Stats**
-<div align="center">
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=SatyamPandey-07&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-
-  <img height="180em"
-       src="https://streak-stats.demolab.com?user=SatyamPandey-07&theme=tokyonight&hide_border=true" />
-
-</div>
+## 🔥 **Top Languages**
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamPandey-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=github-readme-stats"
+  />
+</p>
 
 ---
 ##  GitHub Trophies
