@@ -39,22 +39,6 @@
 
 ---
 
-## 💰 **Support My Work**
-<div align="center">
-  
-### ☕ **Buy Me a Coffee (Click to Pay via GPay)**
-<a href="./gpay-qr.png" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee - Pay via GPay" height="60px" width="217px">
-</a>
-
-**UPI ID:** `pandeysatyam1802@okhdfcbank`
-
-</div>
-
-*If you find my projects helpful or want to support my open-source work, your support means the world to me! 🙏*  
-*For Indian users, GPay/UPI is the easiest way to support! 🇮🇳*
-
----
 
 ## 💻 **Complete Tech Stack**
 
@@ -114,7 +98,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamPandey-07&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SatyamPandey-07&theme=dark&show_icons=true" />
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=SatyamPandey-07&theme=synthwave)](https://git.io/streak-stats)
 ---
 
 ## 🔥 **Top Languages**
@@ -215,6 +199,23 @@
 📢 **Share** my projects with your network!  
 
 Let's build something awesome together. Happy coding! 🎉  
+
+---
+
+## 💰 **Support My Work**
+<div align="center">
+  
+### ☕ **Buy Me a Coffee (Click to Pay via GPay)**
+<a href="./gpay-qr.png" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee - Pay via GPay" height="60px" width="217px">
+</a>
+
+**UPI ID:** `pandeysatyam1802@okhdfcbank`
+
+</div>
+
+*If you find my projects helpful or want to support my open-source work, your support means the world to me! 🙏*  
+*For Indian users, GPay/UPI is the easiest way to support! 🇮🇳*
 
 ---
 
