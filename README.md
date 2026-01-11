@@ -97,8 +97,9 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=SatyamPandey-07&theme=tokyonight&hide_border=true" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamPandey-07&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SatyamPandey-07&theme=dark&show_icons=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SatyamPandey-07&theme=synthwave" alt="GitHub Streak" /></a>
 </div>
-[![GitHub Streak]()](https://git.io/streak-stats)
+
 ---
 
 ## 🔥 **Top Languages**
