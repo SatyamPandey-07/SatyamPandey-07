@@ -90,19 +90,17 @@
 
 
 ---
+## 📊 GitHub Stats
+
 <div align="center">
 
-<!-- GitHub Streak -->
-<img height="180em" src="https://streak-stats.demolab.com?user=SatyamPandey-07&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=SatyamPandey-07&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SatyamPandey-07&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SatyamPandey-07&theme=tokyonight&hide_border=true" height="180"/>
 
-<!-- GitHub Profile Summary -->
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamPandey-07&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamPandey-07&theme=tokyonight" height="180"/>
 
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamPandey-07&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamPandey-07&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
