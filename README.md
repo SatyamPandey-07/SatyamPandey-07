@@ -88,23 +88,6 @@
   <img src="https://skillicons.dev/icons?i=postman,insomnia,yarn,npm,webpack,vite,bash,powershell,vim,linux,ubuntu,windows" />
 </p>
 
----
-
-<div align="center">
-
-  <!-- GitHub Streak -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=SatyamPandey-07&theme=synthwave&hide_border=true" />
-
-  <!-- GitHub Profile Details -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamPandey-07&theme=tokyonight" />
-
-  <!-- GitHub Overall Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SatyamPandey-07&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamPandey-07&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 <div align="center">
