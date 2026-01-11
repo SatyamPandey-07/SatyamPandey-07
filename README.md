@@ -90,15 +90,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<div align="center">
- 
-  <img height="180em" src="https://streak-stats.demolab.com?user=SatyamPandey-07&theme=synthwave" />
- 
-</div>
-
----
-
 <div align="center">
 
   <!-- GitHub Streak -->
