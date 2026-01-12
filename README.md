@@ -246,6 +246,7 @@ Let's build something awesome together. Happy coding! 🎉
 ![Profile Views](https://komarev.com/ghpvc/?username=SatyamPandey-07&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/SatyamPandey-07?logo=github&style=plastic&color=blue&label=FOLLOWERS)
 ![GitHub stars](https://img.shields.io/github/stars/SatyamPandey-07?logo=github&style=plastic&color=yellow&label=STARS)
+![Total Repositories](https://img.shields.io/github/public-repos/SatyamPandey-07?logo=github&style=plastic&color=brightgreen&label=REPOSITORIES)
 ![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SatyamPandey-07&query=$.public_repos&label=REPOSITORIES&style=plastic&color=green&logo=github)
 
 </div>
