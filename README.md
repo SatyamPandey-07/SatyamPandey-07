@@ -1,4 +1,4 @@
-# 🚀 **Hi there, I'm Satyam!** 👋  
+#  **Hi there, I'm Satyam!** 👋  
 *Full Stack Developer | AI/ML Engineer | Data Science Enthusiast | Open Source Contributor*  
 
 ---
