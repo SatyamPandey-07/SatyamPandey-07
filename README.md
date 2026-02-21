@@ -59,8 +59,8 @@ const satyam = {
 ```
 <div align="center">
 
-<!-- Cyberpunk Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=130&lines=☢️+CONTRIBUTION+HUNTER+ONLINE+☢️;💀+FEEDING+ON+YOUR+COMMITS+💀" alt="Cyberpunk Title" />
+<!-- Cyberpunk Title - FIXED -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&width=1000&height=130&lines=CONTRIBUTION+HUNTER+ONLINE;FEEDING+ON+YOUR+COMMITS" alt="Cyberpunk Title" />
 
 <!-- Glitch Line Top -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=5" width="100%"/>
@@ -83,13 +83,13 @@ const satyam = {
 
 <!-- Matrix Style Badges -->
 <p>
-  <img src="https://img.shields.io/badge/STATUS-●_ACTIVE-00ff41?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=00ff41" />
-  <img src="https://img.shields.io/badge/MODE-●_HUNT-00d9ff?style=for-the-badge&labelColor=000000&logo=target&logoColor=00d9ff" />
-  <img src="https://img.shields.io/badge/THREAT-●_MAXIMUM-ff0040?style=for-the-badge&labelColor=000000&logo=hackaday&logoColor=ff0040" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/MODE-HUNT-00d9ff?style=for-the-badge&labelColor=000000&logo=target&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/THREAT-MAXIMUM-ff0040?style=for-the-badge&labelColor=000000&logo=hackaday&logoColor=ff0040" />
 </p>
 
-<!-- Glitch Effect Stats -->
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=►+SCANNING+CONTRIBUTION+MATRIX...;►+TARGETS+ACQUIRED+●+CONSUMING+DATA;►+SYSTEM+STATUS%3A+OPERATIONAL+●+UPTIME+∞;►+AUTO-REGENERATION+CYCLE%3A+12H+●+ACTIVE" alt="Matrix Stats" />
+<!-- Matrix Stats - FIXED -->
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=SCANNING+CONTRIBUTION+MATRIX;TARGETS+ACQUIRED+CONSUMING+DATA;SYSTEM+STATUS+OPERATIONAL+UPTIME+INFINITE;AUTO+REGENERATION+CYCLE+12H+ACTIVE" alt="Matrix Stats" />
 
 <br/>
 
