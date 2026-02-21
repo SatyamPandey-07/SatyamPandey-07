@@ -9,17 +9,7 @@
 
 <!-- Animated Coding GIFs -->
 <div align="left"> <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" alt="🔥 Coding Vibes" width="100%" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="💻 Hustling Hard" width="70%" /> </div>
-<table>
-<tr>
-<td width="50%">
-<img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" width="100%">
-</td>
 
-<td width="50%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
-</td>
-</tr>
-</table>
 <div align="center" style="display:flex; justify-content:space-between; align-items:center;">
 
 <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" width="48%" />
@@ -99,13 +89,14 @@
 ---
 ## 📊 GitHub Stats
 
+
+
+
 <div align="center">
+  
 <img src="https://streak-stats.demolab.com?user=SatyamPandey-07&theme=tokyonight&hide_border=true" height="180"/>
-</div>
 
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=SatyamPandey-07&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=SatyamPandey-07&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamPandey-07&theme=tokyonight" height="180" />
 
@@ -116,7 +107,6 @@
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatyamPandey-07&theme=tokyonight" />
 
 </div>
----
 
 ##  GitHub Trophies
 <p align="center">
