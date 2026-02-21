@@ -72,48 +72,6 @@ const satyam = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Toxic Green Variant -->
-<h2>☢️ TOXIC GREEN SNAKE</h2>
-<img alt="green snake variant" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/snake-green.svg">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-
-</div>
-
-<div align="center">
-
-<br/>
-
-<!-- Single Powerful Line -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🐍+CONTRIBUTION+SNAKE+🐍" alt="Snake Title" />
-
-<br/>
-
-<!-- The Snake - Pure and Clean -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-
-<!-- Subtle Status Line -->
-<img src="https://img.shields.io/badge/AUTO_UPDATES-EVERY_12H-00d9ff?style=flat-square" />
-
-<br/><br/>
-
-</div>
-
-<!-- ============================================ -->
-<!-- 🔥 ULTRA SEXY 3D SNAKE SECTION 🔥 -->
-<!-- ============================================ -->
-
-<div align="center">
-
 <!-- Neon Glow Title with 3D Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=🐍+SNAKE+DEVOURING+MY+COMMITS+🐍;💀+WATCH+IT+CONSUME+EVERYTHING+💀;⚡+POWERED+BY+GITHUB+MAGIC+⚡" alt="3D Snake Title" />
 
@@ -134,10 +92,6 @@ const satyam = {
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🔥+Contributions+Being+Consumed+🔥;⚡+Real-time+GitHub+Activity+⚡;💎+Auto-Updates+Every+12+Hours+💎" alt="Stats" />
 
 </div>
-
-<!-- ============================================ -->
-<!-- END OF 3D SNAKE SECTION -->
-<!-- ============================================ -->
 
 ---
 
