@@ -72,44 +72,6 @@ const satyam = {
 
 <div align="center">
 
-<!-- Epic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=250&section=header&text=💀+SNAKE+MULTIVERSE+💀&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Choose+Your+Poison&descSize=25&descAlignY=60" width="100%"/>
-
-<!-- Glowing Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2000&pause=800&color=FF00D9&center=true&vCenter=true&width=900&lines=⚡+6+DEADLY+SNAKE+VARIANTS+⚡;🎨+PICK+YOUR+FAVORITE+THEME+🎨;🔥+ALL+AUTO-UPDATING+LIVE+🔥" alt="Title" />
-
-<br/>
-
-<!-- Tab-Style Selection -->
-<table>
-<tr>
-<td align="center"><b>🌊 OCEAN BLUE</b></td>
-<td align="center"><b>☢️ TOXIC GREEN</b></td>
-<td align="center"><b>👾 CYBER PURPLE</b></td>
-</tr>
-<tr>
-<td align="center"><b>🔥 FIRE RED</b></td>
-<td align="center"><b>⚡ GOLDEN BOLT</b></td>
-<td align="center"><b>💜 NEON PINK</b></td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Main Dark Theme Snake -->
-<h2>🌙 DARK MODE - GITHUB DEFAULT</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Ocean Blue Variant -->
-<h2>🌊 OCEAN BLUE SNAKE</h2>
-<img alt="blue snake variant" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/snake-blue.svg">
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 <!-- Toxic Green Variant -->
@@ -118,52 +80,8 @@ const satyam = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-<!-- Cyber Purple Variant -->
-<h2>👾 CYBER PURPLE SNAKE</h2>
-<img alt="purple snake variant" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/snake-purple.svg">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Fire Red Variant -->
-<h2>🔥 FIRE RED SNAKE</h2>
-<img alt="fire snake variant" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/snake-fire.svg">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Golden Bolt Variant -->
-<h2>⚡ GOLDEN BOLT SNAKE</h2>
-<img alt="gold snake variant" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/snake-gold.svg">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Neon Pink Variant -->
-<h2>💜 NEON PINK SNAKE</h2>
-<img alt="neon snake variant" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/snake-neon.svg">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Epic Stats -->
-<h2>📊 SNAKE STATISTICS</h2>
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/TOTAL_VARIANTS-7-00d9ff?style=for-the-badge&logo=github&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/AUTO_UPDATE-EVERY_12H-00ff41?style=for-the-badge&logo=clockify&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/COMMITS_EATEN-∞-ff6b6b?style=for-the-badge&logo=git&logoColor=white" />
-</td>
-</tr>
-</table>
-
 
 </div>
-<!-- ============================================ -->
-<!-- ✨ MINIMALIST PREMIUM SNAKE - CLEAN & SEXY ✨ -->
-<!-- ============================================ -->
 
 <div align="center">
 
