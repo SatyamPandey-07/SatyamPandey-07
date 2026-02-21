@@ -6,15 +6,10 @@
 ![💻 Hustling Hard](https://github.com/user-attachments/assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92)
 
 ---
-
-<!-- Animated Coding GIFs -->
-<div align="left"> <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" alt="🔥 Coding Vibes" width="100%" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="💻 Hustling Hard" width="70%" /> </div>
-
 <div align="center" style="display:flex; justify-content:space-between; align-items:center;">
-
-<img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" width="48%" />
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="48%" />
+<!-- Animated Coding GIFs -->
+ <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" alt="🔥 Coding Vibes" width="48%" /> 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="💻 Hustling Hard" width="48%" /> 
 
 </div>
 
