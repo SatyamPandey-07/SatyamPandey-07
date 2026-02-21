@@ -2,6 +2,20 @@
 *Full Stack Developer | AI/ML Engineer | Data Science Enthusiast | Open Source Contributor*  
 
 ---
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<td width="50%" align="left">
+<img src="https://github.com/user-attachments/assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92" width="100%">
+</td>
+
+<td width="50%" align="right">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+</td>
+
+</tr>
+</table>
 <table>
 <tr>
 <td width="50%" align="center">
