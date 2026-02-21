@@ -191,7 +191,34 @@ const satyam = {
 </div>
 
 <!-- ============================================ -->
-<!-- END MINIMALIST SNAKE -->
+<!-- 🔥 ULTRA SEXY 3D SNAKE SECTION 🔥 -->
+<!-- ============================================ -->
+
+<div align="center">
+
+<!-- Neon Glow Title with 3D Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=🐍+SNAKE+DEVOURING+MY+COMMITS+🐍;💀+WATCH+IT+CONSUME+EVERYTHING+💀;⚡+POWERED+BY+GITHUB+MAGIC+⚡" alt="3D Snake Title" />
+
+<!-- Glowing Border Container -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
+
+<!-- Main Snake Animation with Glow Effect -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg" style="filter: drop-shadow(0 0 20px rgba(0, 247, 255, 0.8));">
+</picture>
+
+<!-- Bottom Glow Border -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,5,2,2,0&height=3" width="100%"/>
+
+<!-- Epic Stats Bar -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🔥+Contributions+Being+Consumed+🔥;⚡+Real-time+GitHub+Activity+⚡;💎+Auto-Updates+Every+12+Hours+💎" alt="Stats" />
+
+</div>
+
+<!-- ============================================ -->
+<!-- END OF 3D SNAKE SECTION -->
 <!-- ============================================ -->
 
 ---
