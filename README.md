@@ -1,15 +1,7 @@
 #  **Hi there, I'm Satyam!** 👋  
 *Full Stack Developer | AI/ML Engineer | Data Science Enthusiast | Open Source Contributor*  
 
-
 ---
-<div align="center" style="display:flex; justify-content:space-between; align-items:center;">
-<!-- Animated Coding GIFs -->
- <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" alt="🔥 Coding Vibes" width="48%" /> 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="💻 Hustling Hard" width="48%" /> 
-
-</div>
-
 <table>
 <tr>
 <td width="50%" align="center">
