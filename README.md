@@ -1,8 +1,4 @@
 
-
-
-<!-- Easter Egg -->
-<!--
 ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
 ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
 ███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
@@ -13,7 +9,6 @@
 You found the secret message! 🎉
 If you're reading this, you're awesome! 
 Feel free to reach out - I'd love to collaborate!
--->
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Satyam%20Pandey&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Open%20Source%20Contributor%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
@@ -236,7 +231,6 @@ Goals:
 </td>
 </tr>
 </table>
----
 
 ## 🌟 **Community & Open Source**
 ### 📚 **Knowledge Sharing**
