@@ -1,13 +1,20 @@
-name: Generate Multiple Snake Variants
+name: Generate Snake
 
+# Controls when the workflow will run
 on:
+  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
+  
+  # Run on every push to main
   push:
     branches:
       - main
+  
+  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# Required permissions
 permissions:
   contents: write
 
@@ -17,27 +24,25 @@ jobs:
     timeout-minutes: 10
     
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout
         uses: actions/checkout@v3
       
-      - name: Generate snake animations with multiple color schemes
+      # Step 2: Generate snake animation
+      - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: SatyamPandey-07
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/snake-blue.svg?color_snake=#00d9ff&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/snake-green.svg?color_snake=#00ff41&color_dots=#c6ffc6,#8cff8c,#52ff52,#00e600,#00b300
-            dist/snake-purple.svg?color_snake=#bf91f3&color_dots=#f3e5ff,#d9b3ff,#bf80ff,#a64dff,#8c1aff
-            dist/snake-fire.svg?color_snake=#ff6b6b&color_dots=#ffe6e6,#ff9999,#ff6666,#ff3333,#cc0000
-            dist/snake-gold.svg?color_snake=#ffd700&color_dots=#fffacd,#ffd700,#ffb700,#ff8c00,#ff6700
-            dist/snake-neon.svg?color_snake=#ff00ff&color_dots=#ff99ff,#ff66ff,#ff33ff,#ff00ff,#cc00cc
       
-      - name: Show generated files
+      # Step 3: Show what was created (for debugging)
+      - name: Show build output
         run: ls -la dist/
       
-      - name: Push to output branch
+      # Step 4: Push the content of <build_dir> to the output branch
+      - name: Push github-contribution-grid-snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
