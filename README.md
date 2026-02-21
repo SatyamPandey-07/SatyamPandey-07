@@ -1,34 +1,19 @@
 #  **Hi there, I'm Satyam!** 👋  
 *Full Stack Developer | AI/ML Engineer | Data Science Enthusiast | Open Source Contributor*  
 
----
+
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-
-<td width="50%" align="left">
-<img src="https://github.com/user-attachments/assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92" width="100%">
-</td>
-
-<td width="50%" align="right">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
-</td>
-
-</tr>
-</table>
-<table>
-<tr>
+  
 <td width="50%" align="center">
-
 <img src="https://github.com/user-attachments/assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92" width="100%" />
-
 </td>
 
 <td width="50%" align="center">
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
 </td>
+
 </tr>
 </table>
 
@@ -36,7 +21,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Engineer;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
 </div>
 
----
+
 
 ### 🏗️ **About Me**  
 - 🔭 I'm currently working on exciting projects in **React, AI/ML, and Data Science**.  
