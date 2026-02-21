@@ -57,38 +57,41 @@ const satyam = {
     challenge: "Building production-ready applications that scale"
 };
 ```
-
 <div align="center">
 
-<!-- Epic Animated Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=120&lines=🐍+SNAKE+DEVOURING+MY+COMMITS+🐍;💀+WATCH+THE+CARNAGE+UNFOLD+💀;⚡+POWERED+BY+GITHUB+MAGIC+⚡" alt="3D Snake Title" />
+<!-- Cyberpunk Title -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=55&duration=1500&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=130&lines=☢️+CONTRIBUTION+HUNTER+ONLINE+☢️;💀+FEEDING+ON+YOUR+COMMITS+💀" alt="Cyberpunk Title" />
 
-<!-- Top Glowing Border -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
+<!-- Glitch Line Top -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,20,30&height=2" width="100%"/>
 
-<br/>
+<br/><br/>
 
-<!-- Main Snake Animation -->
+<!-- The Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
+<br/><br/>
+
+<!-- Glitch Line Bottom -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,20,5,2,0&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=5" width="100%"/>
+
+<!-- Matrix Style Badges -->
+<p>
+  <img src="https://img.shields.io/badge/STATUS-●_ACTIVE-00ff41?style=for-the-badge&labelColor=000000&logo=statuspage&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/MODE-●_HUNT-00d9ff?style=for-the-badge&labelColor=000000&logo=target&logoColor=00d9ff" />
+  <img src="https://img.shields.io/badge/THREAT-●_MAXIMUM-ff0040?style=for-the-badge&labelColor=000000&logo=hackaday&logoColor=ff0040" />
+</p>
+
+<!-- Glitch Effect Stats -->
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=►+SCANNING+CONTRIBUTION+MATRIX...;►+TARGETS+ACQUIRED+●+CONSUMING+DATA;►+SYSTEM+STATUS%3A+OPERATIONAL+●+UPTIME+∞;►+AUTO-REGENERATION+CYCLE%3A+12H+●+ACTIVE" alt="Matrix Stats" />
+
 <br/>
-
-<!-- Bottom Glowing Border -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,5,2,2,0&height=4" width="100%"/>
-
-<!-- Animated Stats Bar -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🔥+Contributions+Being+Consumed+in+Real-Time+🔥;⚡+GitHub+Activity+Snake+Animation+⚡;💎+Auto-Updates+Every+12+Hours+💎;🚀+Never+Stops+Hunting+Commits+🚀" alt="Stats" />
-
-<br/>
-
-<!-- Power Badges -->
-<img src="https://img.shields.io/badge/🐍_Snake-Active-00ff41?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/⚡_Status-Hunting-00d9ff?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🔥_Mode-Unstoppable-ff6b6b?style=for-the-badge&labelColor=000000" />
 
 </div>
 
