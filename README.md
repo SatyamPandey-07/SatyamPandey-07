@@ -182,7 +182,6 @@
 ### 💪 **Coding Consistency**
 <p align="center">
   <em>"Consistency is key to mastering algorithms and data structures!"</em><br>
-  <strong>🔥 Current Streak | 📊 Total Problems | 🏅 Contest Participation</strong>
 </p>
 
 ---
@@ -191,29 +190,10 @@
 
 💖 **Drop a star** ⭐ on my repositories if you like my work! 🚀  
 🤝 **Fork** and **contribute** to make them even better!  
-☕ **Buy me a coffee** to keep the coding momentum going!  
 📢 **Share** my projects with your network!  
 
 Let's build something awesome together. Happy coding! 🎉  
 
----
-
-## 💰 **Support My Work**
-<div align="center">
-  
-### ☕ **Buy Me a Coffee (Click to Pay via GPay)**
-<a href="./gpay-qr.png" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee - Pay via GPay" height="60px" width="217px">
-</a>
-
-**UPI ID:** `pandeysatyam1802@okhdfcbank`
-
-</div>
-
-*If you find my projects helpful or want to support my open-source work, your support means the world to me! 🙏*  
-*For Indian users, GPay/UPI is the easiest way to support! 🇮🇳*
-
----
 
 <div align="center">
 
@@ -235,10 +215,8 @@ Let's build something awesome together. Happy coding! 🎉
 ### 🔥 **GitHub Stats Summary**
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=SatyamPandey-07&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/SatyamPandey-07?logo=github&style=plastic&color=blue&label=FOLLOWERS)
 ![GitHub stars](https://img.shields.io/github/stars/SatyamPandey-07?logo=github&style=plastic&color=yellow&label=STARS)
-![Total Repositories](https://img.shields.io/github/public-repos/SatyamPandey-07?logo=github&style=plastic&color=brightgreen&label=REPOSITORIES)
 ![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SatyamPandey-07&query=$.public_repos&label=REPOSITORIES&style=plastic&color=green&logo=github)
 
 </div>
@@ -248,3 +226,6 @@ Let's build something awesome together. Happy coding! 🎉
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn" />
 </div>
+
+
+![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
