@@ -8,7 +8,7 @@
 ---
 
 <!-- Animated Coding GIFs -->
-<div align="left"> <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" alt="🔥 Coding Vibes" width="100%" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="💻 Hustling Hard" width="70%" /> </div>
+<div> <img src="https://user-attachments.assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92.gif" alt="🔥 Coding Vibes" width="100%" /> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="💻 Hustling Hard" width="70%" /> </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Engineer;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
@@ -145,7 +145,6 @@
 ✅ I love **clean, minimalist UI** with smooth animations and perfect UX  
 ✅ **Always learning** something new every day – currently exploring GPT-4 integrations  
 ✅ Can switch between **Python ML models** and **React components** seamlessly  
-✅ **Coffee-driven developer** ☕ – hence the "Buy Me a Coffee" button above!  
 ✅ I believe in **code that tells a story** and **design that speaks volumes**  
 
 ---
