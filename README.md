@@ -59,18 +59,19 @@ const satyam = {
 ```
 <div align="center">
 
-<!-- Simple Working Title -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=SNAKE+HUNTER;DEVOURING+COMMITS;NEVER+STOPS" alt="Title" />
-</h1>
+<br/>
 
-<!-- Green Neon Lines -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=5" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00d9ff&height=2" width="100%"/>
+<!-- Title -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=SNAKE+ATTACK" alt="Title" />
 
 <br/>
 
-<!-- The Snake -->
+<!-- Top Border -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=4" width="100%"/>
+
+<br/>
+
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg">
@@ -79,23 +80,25 @@ const satyam = {
 
 <br/>
 
-<!-- Green Neon Lines Bottom -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00d9ff&height=2" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=5" width="100%"/>
+<!-- Bottom Border -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=4" width="100%"/>
 
-<!-- Status Badges -->
-<p>
-  <img src="https://img.shields.io/badge/🟢_STATUS-ACTIVE-00ff41?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🔵_MODE-HUNT-00d9ff?style=for-the-badge&labelColor=000000" />
-  <img src="https://img.shields.io/badge/🔴_THREAT-MAX-ff0040?style=for-the-badge&labelColor=000000" />
-</p>
+<br/>
 
-<!-- Stats Line -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Auto+Updates+Every+12+Hours;Powered+By+GitHub+Actions;Real+Time+Tracking" alt="Stats" />
+<!-- Badges -->
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/MODE-HUNT-00d9ff?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/THREAT-MAX-ff0040?style=for-the-badge&labelColor=000000" />
+
+<br/>
+
+<!-- Bottom Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Auto+Updates+Every+12+Hours" alt="Stats" />
+
+<br/>
 
 </div>
 
----
 
 ## 🌍 **Connect with Me**
 <p>
@@ -110,7 +113,7 @@ const satyam = {
   </a>
 </p>
 
----
+
 ## 🛠️ Tech Arsenal
 
 <table>
@@ -164,7 +167,7 @@ const satyam = {
   <img src="https://skillicons.dev/icons?i=postman,yarn,npm,webpack,vite,bash,powershell,vim,linux,ubuntu,windows" />
 </p>
 
----
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -188,13 +191,12 @@ const satyam = {
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SatyamPandey-07&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </p>
 
----
 
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamPandey-07&custom_title=Satyam's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
 
----
+
 ## 🎯 Current Focus
 
 <table>
@@ -260,14 +262,13 @@ Goals:
 - 🌍 Available for freelance and consulting work
 - 📞 Contact me for technical discussions and partnerships
 
----
+
 
 ## 🎯 **Fun Facts About Me**  
 ✅ **Coding keeps me alive** – I can sit and build projects for hours  
 ✅ Can switch between **Python ML models** and **React components** seamlessly  
 ✅ I believe in **code that tells a story** and **design that speaks volumes**  
 
----
 
 ## 📊 **LeetCode Journey**
 
