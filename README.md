@@ -57,16 +57,6 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
-**Additional AI/ML Tools:**
-- 🧠 **Machine Learning**: scikit-learn, pandas, numpy, matplotlib, seaborn
-- 🤖 **AI Frameworks**: LangChain, OpenAI API, Hugging Face, Transformers
-- 📊 **Data Analysis**: Jupyter, Anaconda, Apache Spark, Streamlit
-- 🔍 **Computer Vision**: OpenCV, PIL, Image Processing, CNNs
-- 📈 **Data Visualization**: Plotly, Bokeh, D3.js, Chart.js
-- 🗃️ **Vector Databases**: Pinecone, Chroma, FAISS, Weaviate
-- 🔗 **RAG Systems**: LangChain, LlamaIndex, Vector Search, Embeddings
-- ☁️ **IBM Watson**: Watson Assistant, Discovery, Language Translator
-- 🧮 **Deep Learning**: Keras, PyTorch Lightning, XGBoost, CatBoost
 
 ### **Cloud & DevOps**
 <p align="center">
@@ -85,7 +75,7 @@
 
 ### **Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,insomnia,yarn,npm,webpack,vite,bash,powershell,vim,linux,ubuntu,windows" />
+  <img src="https://skillicons.dev/icons?i=postman,yarn,npm,webpack,vite,bash,powershell,vim,linux,ubuntu,windows" />
 </p>
 
 
@@ -106,6 +96,8 @@
 
 <!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamPandey-07&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+<img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username==SatyamPandey-07&theme=2077" alt="GitHub Stats" />
+<img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username==SatyamPandey-07&theme=2077" alt="Most Commit Language" />
 
 </div>
 
