@@ -159,13 +159,40 @@ const satyam = {
 </tr>
 </table>
 
-<!-- Power Level -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=💎+LEGENDARY+SNAKE+COLLECTION+💎;⚡+POWERED+BY+GITHUB+ACTIONS+⚡;🚀+UPDATED+AUTOMATICALLY+FOREVER+🚀" />
-
-<!-- Epic Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6,2,0&height=180&section=footer&text=Choose+Wisely...&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
+<!-- ============================================ -->
+<!-- ✨ MINIMALIST PREMIUM SNAKE - CLEAN & SEXY ✨ -->
+<!-- ============================================ -->
+
+<div align="center">
+
+<br/>
+
+<!-- Single Powerful Line -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🐍+CONTRIBUTION+SNAKE+🐍" alt="Snake Title" />
+
+<br/>
+
+<!-- The Snake - Pure and Clean -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+<!-- Subtle Status Line -->
+<img src="https://img.shields.io/badge/AUTO_UPDATES-EVERY_12H-00d9ff?style=flat-square" />
+
+<br/><br/>
+
+</div>
+
+<!-- ============================================ -->
+<!-- END MINIMALIST SNAKE -->
+<!-- ============================================ -->
 
 ---
 
