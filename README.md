@@ -1,6 +1,6 @@
 
 
-<div align="center">
+
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Satyam%20Pandey&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Open%20Source%20Contributor%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
 
@@ -34,7 +34,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
----
+
 
 ## 🎯 About Me
 
@@ -324,4 +324,4 @@ Let's build something awesome together. Happy coding! 🎉
 
 
 ![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
-</div>
+
