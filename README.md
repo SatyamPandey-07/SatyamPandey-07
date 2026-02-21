@@ -60,24 +60,35 @@ const satyam = {
 
 <div align="center">
 
-<!-- Neon Glow Title with 3D Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=100&lines=🐍+SNAKE+DEVOURING+MY+COMMITS+🐍;💀+WATCH+IT+CONSUME+EVERYTHING+💀;⚡+POWERED+BY+GITHUB+MAGIC+⚡" alt="3D Snake Title" />
+<!-- Epic Animated Title -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=120&lines=🐍+SNAKE+DEVOURING+MY+COMMITS+🐍;💀+WATCH+THE+CARNAGE+UNFOLD+💀;⚡+POWERED+BY+GITHUB+MAGIC+⚡" alt="3D Snake Title" />
 
-<!-- Glowing Border Container -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
+<!-- Top Glowing Border -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=4" width="100%"/>
 
-<!-- Main Snake Animation with Glow Effect -->
+<br/>
+
+<!-- Main Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<!-- Bottom Glow Border -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,5,2,2,0&height=3" width="100%"/>
+<br/>
 
-<!-- Epic Stats Bar -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🔥+Contributions+Being+Consumed+🔥;⚡+Real-time+GitHub+Activity+⚡;💎+Auto-Updates+Every+12+Hours+💎" alt="Stats" />
+<!-- Bottom Glowing Border -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,5,2,2,0&height=4" width="100%"/>
+
+<!-- Animated Stats Bar -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=🔥+Contributions+Being+Consumed+in+Real-Time+🔥;⚡+GitHub+Activity+Snake+Animation+⚡;💎+Auto-Updates+Every+12+Hours+💎;🚀+Never+Stops+Hunting+Commits+🚀" alt="Stats" />
+
+<br/>
+
+<!-- Power Badges -->
+<img src="https://img.shields.io/badge/🐍_Snake-Active-00ff41?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/⚡_Status-Hunting-00d9ff?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🔥_Mode-Unstoppable-ff6b6b?style=for-the-badge&labelColor=000000" />
 
 </div>
 
