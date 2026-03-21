@@ -196,6 +196,31 @@ const satyam = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamPandey-07&custom_title=Satyam's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishabhjain610&theme=tokyonight" width="100%"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rishabhjain610&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rishabhjain610&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rishabhjain610&theme=tokyonight&utcOffset=5.5"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabhjain610&bg_color=0d1117&color=FF8C42&line=FF6B35&point=FF8C42&area_color=FF6B35&area=true&hide_border=true&custom_title=Activity+Graph" width="100%"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rishabhjain610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF8C42&icon_color=FF8C42&count_private=true&include_all_commits=true"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=Rishabhjain610&theme=tokyonight&hide_border=true&background=0D1117&ring=FF8C42&fire=FF8C42&currStreakLabel=FF8C42"/>
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhjain610&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF8C42"/>
+
+</div>
+
+---
+
 
 ## 🎯 Current Focus
 
