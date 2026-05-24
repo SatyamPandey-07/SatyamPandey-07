@@ -268,6 +268,48 @@ Goals:
 - 🌍 Available for freelance and consulting work
 - 📞 Contact me for technical discussions and partnerships
 
+---
+
+## 🏆 **GirlScript Summer of Code (GSSoC) Badges**
+<div align="center">
+
+### 🌟 **Top Achievements**
+<p align="center">
+  <img src="public/gssoc-badge-gssoc_champion.png" width="11%" title="GSSoC Champion" />
+  <img src="public/gssoc-badge-elite.png" width="11%" title="Elite" />
+  <img src="public/gssoc-badge-rising_star.png" width="11%" title="Rising Star" />
+  <img src="public/gssoc-badge-rank_1.png" width="11%" title="Rank 1" />
+  <img src="public/gssoc-badge-top_3.png" width="11%" title="Top 3" />
+  <img src="public/gssoc-badge-top_10.png" width="11%" title="Top 10" />
+  <img src="public/gssoc-badge-top_50.png" width="11%" title="Top 50" />
+  <img src="public/gssoc-badge-top_100.png" width="11%" title="Top 100" />
+</p>
+
+### ⚔️ **Bounties & Streaks**
+<p align="center">
+  <img src="public/gssoc-badge-bounty_master.png" width="11%" title="Bounty Master" />
+  <img src="public/gssoc-badge-bounty_hunter.png" width="11%" title="Bounty Hunter" />
+  <img src="public/gssoc-badge-power_contributor.png" width="11%" title="Power Contributor" />
+  <img src="public/gssoc-badge-point_scorer.png" width="11%" title="Point Scorer" />
+  <img src="public/gssoc-badge-building_momentum.png" width="11%" title="Building Momentum" />
+  <img src="public/gssoc-badge-on_a_roll.png" width="11%" title="On a Roll" />
+</p>
+
+### 🗺️ **Journey & Roles**
+<p align="center">
+  <img src="public/gssoc-badge-role_contributor.png" width="11%" title="Role Contributor" />
+  <img src="public/gssoc-badge-role_mentor.png" width="11%" title="Role Mentor" />
+  <img src="public/gssoc-badge-week_one.png" width="11%" title="Week One" />
+  <img src="public/gssoc-badge-first_steps.png" width="11%" title="First Steps" />
+  <img src="public/gssoc-badge-getting_started.png" width="11%" title="Getting Started" />
+  <img src="public/gssoc-badge-discord_verified.png" width="11%" title="Discord Verified" />
+  <img src="public/gssoc-badge-profile_complete.png" width="11%" title="Profile Complete" />
+</p>
+
+</div>
+
+---
+
 
 
 ## 🎯 **Fun Facts About Me**  
