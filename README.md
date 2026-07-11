@@ -11,6 +11,31 @@
 
 <br/>
 
+<!-- Quick GitHub Stats Badges -->
+<div align="center">
+  <a href="https://github.com/SatyamPandey-07">
+    <img src="https://komarev.com/ghpvc/?username=SatyamPandey-07&color=00D9FF&style=for-the-badge&label=Views" alt="Views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SatyamPandey-07?tab=followers">
+    <img src="https://img.shields.io/github/followers/SatyamPandey-07?logo=github&style=for-the-badge&color=00ff41&labelColor=000000&label=Followers" alt="Followers" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Satyampandey1802/">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/Satyampandey1802/solved&query=$.solvedProblem&label=LeetCode&style=for-the-badge&color=FFA116&labelColor=000000&logo=leetcode" alt="LeetCode Solved" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SatyamPandey-07?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SatyamPandey-07&query=$.stars&label=Stars&style=for-the-badge&color=00D9FF&labelColor=000000&logo=github" alt="Total Stars" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SatyamPandey-07?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SatyamPandey-07&query=$.forks&label=Forks&style=for-the-badge&color=00ff41&labelColor=000000&logo=github" alt="Total Forks" />
+  </a>
+</div>
+
+<br/>
+
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
   
@@ -484,26 +509,6 @@ Let's build something awesome together. Happy coding! 🎉
 **🌟 Made with ❤️ by [Satyam Pandey](https://github.com/SatyamPandey-07) 🌟**
 
 *"Code is poetry written in logic, and I'm here to compose symphonies!"* 🎵
-
-</div>
-
----
-
-### 📈 **Profile Views**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SatyamPandey-07&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views">
-</p>
-
----
-
-### 📈 **GitHub Stats Summary**
-<div align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/SatyamPandey-07?logo=github&style=for-the-badge&color=00d9ff&labelColor=000000&label=FOLLOWERS)
-&nbsp;&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/SatyamPandey-07?logo=github&style=for-the-badge&color=00ff41&labelColor=000000&label=STARS)
-&nbsp;&nbsp;
-![GitHub repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SatyamPandey-07&query=$.public_repos&label=REPOSITORIES&style=for-the-badge&color=ff0040&labelColor=000000&logo=github)
 
 </div>
 
