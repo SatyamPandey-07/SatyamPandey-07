@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/github/followers/SatyamPandey-07?logo=github&style=for-the-badge&color=00ff41&labelColor=000000&label=Followers" alt="Followers" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/Satyampandey1802/">
+  
     <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/Satyampandey1802/solved&query=$.solvedProblem&label=LeetCode&style=for-the-badge&color=FFA116&labelColor=000000&logo=leetcode" alt="LeetCode Solved" />
   </a>
   &nbsp;
