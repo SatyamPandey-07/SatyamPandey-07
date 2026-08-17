@@ -1,11 +1,9 @@
 <!-- Animated Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,24&height=300&section=header&text=Satyam%20Pandey&fontSize=85&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Systems%20%26%20Go%20Engineer%20%7C%20CNCF%20OpenTelemetry%20Contributor%20%7C%205x%20Hackathon%20Winner&descAlignY=55&descAlign=50" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Satyam%20Pandey&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Go%20Engineer%20|%20CNCF%20Contributor%20|%205x%20Hackathon%20Winner&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=CNCF+OpenTelemetry+Core+Contributor+%F0%9F%8C%90;5x+National+Hackathon+Winner+%F0%9F%8F%86;Building+Autonomous+Agents+%26+Systems+in+Go+%E2%9A%A1;Model+Context+Protocol+(MCP)+%26+Distributed+Tracing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=CNCF+OpenTelemetry+Core+Contributor+%F0%9F%8C%90;5x+National+Hackathon+Winner+%F0%9F%8F%86;Building+Autonomous+Agents+%26+Systems+in+Go+%E2%9A%A1;Model+Context+Protocol+(MCP)+%26+Tracing+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -13,7 +11,7 @@
 <!-- Quick GitHub Stats Badges -->
 <div align="center">
   <a href="https://github.com/SatyamPandey-07">
-    <img src="https://komarev.com/ghpvc/?username=SatyamPandey-07&color=00D9FF&style=for-the-badge&label=VIEWS" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=SatyamPandey-07&color=00D9FF&style=for-the-badge&label=Views" alt="Views" />
   </a>
   &nbsp;
   <a href="https://github.com/SatyamPandey-07?tab=followers">
@@ -50,6 +48,10 @@
 </table>
 
 <br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Systems+%26+Go+Engineer;CNCF+OpenTelemetry+Contributor;5x+National+Hackathon+Winner;Autonomous+AI+Agents+(MCP)+%F0%9F%9A%80" alt="Typing Animation" />
+</div>
 
 ## 🎯 About Me
 
@@ -119,7 +121,7 @@ const satyam = {
 `LLMs` • `Knowledge Graphs` • `Hybrid Search` • `FastAPI` • `Next.js`
 * AI-driven oncology research intelligence engine with hybrid semantic search and knowledge graph groundings.
 * Built as a Forward Deployed Engineer at *Augenblick Consulting*.
-
+* **[Live Demo](https://medica-ictf.vercel.app/)**
 
 </td>
 </tr>
@@ -201,8 +203,6 @@ const satyam = {
 
 </div>
 
----
-
 ## 🌍 **Connect with Me**
 <p align="center">
   <a href="https://satyampandey.tech/">
@@ -222,54 +222,74 @@ const satyam = {
   </a>
 </p>
 
----
-
 ## 🛠️ Tech Arsenal
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">💻 Languages & Systems</h3>
+<h3 align="center">🎨 Frontend Universe</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,cpp,python,c,typescript,javascript,java,bash&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,typescript,javascript,html,css,sass,tailwind,bootstrap,redux,vite,threejs&theme=dark&perline=7" />
 </p>
 
-<h3 align="center">🎨 Frontend & 3D Web</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,threejs,tailwind,redux,vite,html,css&theme=dark&perline=4" />
-</p>
+<br/>
 
-<h3 align="center">🔮 Backend & Distributed DBs</h3>
+<h3 align="center">🔮 Backend & Database</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,postgres,mongodb,redis,mysql,graphql,prisma&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi,java,spring,mongodb,postgresql,mysql,redis,graphql,prisma&theme=dark&perline=7" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 AI/ML, Agents & Vector DBs</h3>
+<h3 align="center">🤖 AI/ML & Data Science</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn&theme=dark&perline=3" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark&perline=4" />
   <br/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langchain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-00D9FF?style=for-the-badge&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=for-the-badge&logoColor=white&labelColor=000000" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/TimescaleDB-F59E0B?style=for-the-badge&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/LangChain_%26_LangGraph-121212?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=000000" />
 </p>
 
-<h3 align="center">☁️ Cloud, DevOps & CI/CD</h3>
+<br/>
+
+<h3 align="center">☁️ Cloud & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,github,vercel,postman,linux,ubuntu&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,netlify,heroku,git,github,gitlab,jenkins&theme=dark&perline=6" />
 </p>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Stats & Telemetry
+<h3 align="center">📱 Mobile & Desktop</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,electron,tauri" />
+</p>
+
+<br/>
+
+<h3 align="center">💻 Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c,go,rust,php" />
+</p>
+
+<br/>
+
+<h3 align="center">🛠️ Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,yarn,npm,webpack,vite,bash,powershell,vim,linux,ubuntu,windows" />
+</p>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -309,11 +329,10 @@ const satyam = {
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SatyamPandey-07&theme=dracula&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </p>
 
+
 ## 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamPandey-07&custom_title=Satyam's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
-
----
 
 ## 🎯 Current Focus
 
@@ -321,7 +340,7 @@ const satyam = {
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🚀 Learning & Research Path</h3>
+<h3 align="center">🚀 Learning Path</h3>
 
 ```yaml
 Systems & Compilers:
@@ -343,23 +362,39 @@ Cloud & Reliability:
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">💡 Ongoing Missions</h3>
+<h3 align="center">💡 Project Ideas</h3>
 
 ```yaml
-Active Builds:
+In Progress:
   - Themis: Terminal-based Autonomous Developer OS
   - CNCF OpenTelemetry otelc compiler features
   - MEDICA: Oncology Knowledge Graph Intelligence
   
+Planning:
+  - Open Source Contributions (CNCF, Linux Foundation)
+  - Tech Blog Platform
+  - Developer Tools & Libraries
+  
 Goals:
-  - Ship core features to Cloud Native ecosystems
-  - Win National Hackathons with execution-first teams
-  - Mentor the next wave of open-source contributors
+  - Build Production-Ready Systems
+  - Win National Hackathons with Execution-First Teams
+  - Mentor the Next Wave of Developers
 ```
 
 </td>
 </tr>
 </table>
+
+## 🌟 **Community & Open Source**
+### 📚 **Knowledge Sharing**
+- 🔗 Regular contributor to CNCF and open-source projects
+- 🎯 Mentoring aspiring developers in systems, MERN stack, and Python
+- 🏆 5x Winner in national hackathons and coding competitions
+
+### 🤝 **Collaboration**
+- 💡 Open to collaborating on innovative systems and AI projects
+- 🌍 Available for engineering internships and technical discussions
+- 📞 Contact me for technical partnerships and consulting
 
 ---
 
@@ -372,37 +407,37 @@ Goals:
 <table align="center" border="0" cellpadding="5" cellspacing="5">
   <tr align="center">
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-gssoc_champion.png" width="80" alt="GSSoC Champion" /><br/>
+      <img src="public/gssoc-badge-gssoc_champion.png" width="80" alt="GSSoC Champion" /><br/>
       <sub><b>GSSoC Champion</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-rank_1.png" width="80" alt="Rank 1" /><br/>
+      <img src="public/gssoc-badge-rank_1.png" width="80" alt="Rank 1" /><br/>
       <sub><b>Rank 1</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-top_3.png" width="80" alt="Top 3" /><br/>
+      <img src="public/gssoc-badge-top_3.png" width="80" alt="Top 3" /><br/>
       <sub><b>Top 3</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-top_10.png" width="80" alt="Top 10" /><br/>
+      <img src="public/gssoc-badge-top_10.png" width="80" alt="Top 10" /><br/>
       <sub><b>Top 10</b></sub>
     </td>
   </tr>
   <tr align="center">
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-elite.png" width="80" alt="Elite" /><br/>
+      <img src="public/gssoc-badge-elite.png" width="80" alt="Elite" /><br/>
       <sub><b>Elite</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-rising_star.png" width="80" alt="Rising Star" /><br/>
+      <img src="public/gssoc-badge-rising_star.png" width="80" alt="Rising Star" /><br/>
       <sub><b>Rising Star</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-top_50.png" width="80" alt="Top 50" /><br/>
+      <img src="public/gssoc-badge-top_50.png" width="80" alt="Top 50" /><br/>
       <sub><b>Top 50</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-top_100.png" width="80" alt="Top 100" /><br/>
+      <img src="public/gssoc-badge-top_100.png" width="80" alt="Top 100" /><br/>
       <sub><b>Top 100</b></sub>
     </td>
   </tr>
@@ -415,31 +450,31 @@ Goals:
 <table align="center" border="0" cellpadding="5" cellspacing="5">
   <tr align="center">
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-bounty_master.png" width="70" alt="Bounty Master" /><br/>
+      <img src="public/gssoc-badge-bounty_master.png" width="70" alt="Bounty Master" /><br/>
       <sub><b>Bounty Master</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-bounty_hunter.png" width="70" alt="Bounty Hunter" /><br/>
+      <img src="public/gssoc-badge-bounty_hunter.png" width="70" alt="Bounty Hunter" /><br/>
       <sub><b>Bounty Hunter</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-power_contributor.png" width="70" alt="Power Contributor" /><br/>
+      <img src="public/gssoc-badge-power_contributor.png" width="70" alt="Power Contributor" /><br/>
       <sub><b>Power Contributor</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-prolific.png" width="70" alt="Prolific" /><br/>
+      <img src="public/gssoc-badge-prolific.png" width="70" alt="Prolific" /><br/>
       <sub><b>Prolific</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-point_scorer.png" width="70" alt="Point Scorer" /><br/>
+      <img src="public/gssoc-badge-point_scorer.png" width="70" alt="Point Scorer" /><br/>
       <sub><b>Point Scorer</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-building_momentum.png" width="70" alt="Building Momentum" /><br/>
+      <img src="public/gssoc-badge-building_momentum.png" width="70" alt="Building Momentum" /><br/>
       <sub><b>Building Momentum</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-on_a_roll.png" width="70" alt="On a Roll" /><br/>
+      <img src="public/gssoc-badge-on_a_roll.png" width="70" alt="On a Roll" /><br/>
       <sub><b>On a Roll</b></sub>
     </td>
   </tr>
@@ -452,31 +487,31 @@ Goals:
 <table align="center" border="0" cellpadding="5" cellspacing="5">
   <tr align="center">
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-role_mentor.png" width="70" alt="Role Mentor" /><br/>
+      <img src="public/gssoc-badge-role_mentor.png" width="70" alt="Role Mentor" /><br/>
       <sub><b>Role Mentor</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-role_contributor.png" width="70" alt="Role Contributor" /><br/>
+      <img src="public/gssoc-badge-role_contributor.png" width="70" alt="Role Contributor" /><br/>
       <sub><b>Role Contributor</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-week_one.png" width="70" alt="Week One" /><br/>
+      <img src="public/gssoc-badge-week_one.png" width="70" alt="Week One" /><br/>
       <sub><b>Week One</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-first_steps.png" width="70" alt="First Steps" /><br/>
+      <img src="public/gssoc-badge-first_steps.png" width="70" alt="First Steps" /><br/>
       <sub><b>First Steps</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-getting_started.png" width="70" alt="Getting Started" /><br/>
+      <img src="public/gssoc-badge-getting_started.png" width="70" alt="Getting Started" /><br/>
       <sub><b>Getting Started</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-discord_verified.png" width="70" alt="Discord Verified" /><br/>
+      <img src="public/gssoc-badge-discord_verified.png" width="70" alt="Discord Verified" /><br/>
       <sub><b>Discord Verified</b></sub>
     </td>
     <td align="center" width="105">
-      <img src="https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/public/gssoc-badge-profile_complete.png" width="70" alt="Profile Complete" /><br/>
+      <img src="public/gssoc-badge-profile_complete.png" width="70" alt="Profile Complete" /><br/>
       <sub><b>Profile Complete</b></sub>
     </td>
   </tr>
@@ -487,36 +522,53 @@ Goals:
 ---
 
 ## 🎯 **Fun Facts About Me**  
-✅ **Coding keeps me alive** – I can sit and build systems for hours with zero friction.  
-✅ Can switch between **Go AST compiler instrumentation**, **PyTorch models**, and **Next.js frontends** seamlessly.  
-✅ I believe in **code that performs with zero overhead** and **systems built to scale**.  
+✅ **Coding keeps me alive** – I can sit and build systems for hours  
+✅ Can switch between **Go AST compiler instrumentation**, **Python ML models**, and **React components** seamlessly  
+✅ I believe in **code that performs with zero overhead** and **design that speaks volumes**  
 
----
+## 📊 **LeetCode Journey**
 
-## 📊 **Competitive Programming & LeetCode**
-
-<div align="center">
-  
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Satyampandey1802/)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-380%2B-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Satyampandey1802/)
-[![Contest Rating](https://img.shields.io/badge/Contest%20Rating-1460-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Satyampandey1802/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%2018-2E8B57?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/pandeysat8mh0/)
-
-</div>
-
-<br/>
-
+### 🎯 **LeetCode Badges & Achievements**
 <div align="center">
   <a href="https://leetcode.com/u/Satyampandey1802/">
-    <img src="https://leetcard.jacoblin.cool/Satyampandey1802?theme=dark&font=Space%20Grotesk&ext=contest" alt="LeetCode Stats" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Satyampandey1802/">
+    <img src="https://img.shields.io/badge/Problems%20Solved-380%2B-orange?style=for-the-badge&logo=leetcode" alt="Problems Solved" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Satyampandey1802/">
+    <img src="https://img.shields.io/badge/Contest%20Rating-1460-yellow?style=for-the-badge&logo=leetcode" alt="Contest Rating" />
+  </a>
+  &nbsp;
+  <a href="https://geeksforgeeks.org/user/pandeysat8mh0/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Rank%2018-2E8B57?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </div>
 
+### 📈 **Coding Stats & Progress**
 <div align="center">
-  <br/>
-  [![50 Days Badge](https://img.shields.io/badge/50%20Days-Badge%202024-blue?style=plastic&logo=leetcode)](https://leetcode.com/u/Satyampandey1802/)
-  [![100 Days Badge](https://img.shields.io/badge/100%20Days-Badge%202024-green?style=plastic&logo=leetcode)](https://leetcode.com/u/Satyampandey1802/)
+  <a href="https://leetcode.com/u/Satyampandey1802/">
+    <img src="https://leetcard.jacoblin.cool/Satyampandey1802?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  </a>
 </div>
+
+### 🎖️ **Achievements**
+<div align="center">
+  <a href="https://leetcode.com/u/Satyampandey1802/">
+    <img src="https://img.shields.io/badge/50%20Days-Badge%202024-blue?style=plastic&logo=leetcode" alt="50 Days Badge" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Satyampandey1802/">
+    <img src="https://img.shields.io/badge/100%20Days-Badge%202024-green?style=plastic&logo=leetcode" alt="100 Days Badge" />
+  </a>
+</div>
+
+### 💪 **Coding Consistency**
+<p align="center">
+  <em>"Consistency is key to mastering algorithms and data structures!"</em><br>
+</p>
 
 ---
 
@@ -530,16 +582,18 @@ Let's build something awesome together. Happy coding! 🎉
 
 <div align="center">
 
-**🌟 Built with ❤️ by [Satyam Pandey](https://github.com/SatyamPandey-07) 🌟**
+**🌟 Made with ❤️ by [Satyam Pandey](https://github.com/SatyamPandey-07) 🌟**
 
 *"Code is poetry written in logic, and I'm here to compose symphonies!"* 🎵
 
-<br/>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with developers</b> so feel free to say hi! 😊</em>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,24&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn" width="100%" />
-
 </div>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn" />
+</div>
+
+![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
