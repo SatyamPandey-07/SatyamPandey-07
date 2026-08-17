@@ -120,7 +120,7 @@ const satyam = {
 `LLMs` • `Knowledge Graphs` • `Hybrid Search` • `FastAPI` • `Next.js`
 * AI-driven oncology research intelligence engine with hybrid semantic search and knowledge graph groundings.
 * Built as a Forward Deployed Engineer at *Augenblick Consulting*.
-* **[Live Demo](https://medica-ictf.vercel.app/)**
+
 
 </td>
 </tr>
