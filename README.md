@@ -1,7 +1,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Satyam%20Pandey&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Systems%20and%20Go%20Engineer%20%7C%20CNCF%20Contributor%20%7C%205x%20Hackathon%20Winner&descAlignY=56&descAlign=50" width="100%"/>
 
-
 <!-- Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=CNCF+OpenTelemetry+Core+Contributor+%F0%9F%8C%90;5x+National+Hackathon+Winner+%F0%9F%8F%86;Building+Autonomous+Agents+%26+Systems+in+Go+%E2%9A%A1;Model+Context+Protocol+(MCP)+%26+Tracing+%F0%9F%9A%80" alt="Typing SVG" />
@@ -50,7 +49,9 @@
 
 <br/>
 
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Systems+%26+Go+Engineer;CNCF+OpenTelemetry+Contributor;5x+National+Hackathon+Winner;Autonomous+AI+Agents+(MCP)+%F0%9F%9A%80" alt="Typing Animation" />
+</div>
 
 ## 🎯 About Me
 
@@ -120,7 +121,7 @@ const satyam = {
 `LLMs` • `Knowledge Graphs` • `Hybrid Search` • `FastAPI` • `Next.js`
 * AI-driven oncology research intelligence engine with hybrid semantic search and knowledge graph groundings.
 * Built as a Forward Deployed Engineer at *Augenblick Consulting*.
-
+* **[GitHub Repository](https://github.com/SatyamPandey-07/MEDICA)**
 
 </td>
 </tr>
@@ -217,7 +218,15 @@ const satyam = {
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Satyampandey1802/">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-380%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/saam-pande">
+    <img src="https://img.shields.io/badge/Codeforces-960-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://geeksforgeeks.org/user/pandeysat8mh0/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Rank_18-2E8B57?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
