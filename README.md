@@ -563,10 +563,7 @@ Goals:
 ### 📈 **Coding Stats & Progress**
 <div align="center">
 
-<!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/u/Satyampandey1802/">
-  <img src="https://leetcard.jacoblin.cool/Satyampandey1802?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="60%" />
-</a>
+
 
 <br/><br/>
 
