@@ -25,6 +25,10 @@
     <img src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/Satyampandey1802/solved&query=$.solvedProblem&label=LeetCode&style=for-the-badge&color=FFA116&labelColor=000000&logo=leetcode" alt="LeetCode Solved" />
   </a>
   &nbsp;
+  <a href="https://codeforces.com/profile/saam-pande">
+    <img src="https://img.shields.io/badge/Codeforces-saam--pande-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000" alt="Codeforces" />
+  </a>
+  &nbsp;
   <a href="https://github.com/SatyamPandey-07?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SatyamPandey-07&query=$.stars&label=Stars&style=for-the-badge&color=00D9FF&labelColor=000000&logo=github" alt="Total Stars" />
   </a>
@@ -143,6 +147,10 @@ const satyam = {
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Satyampandey1802/">
     <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/saam-pande">
+    <img src="https://img.shields.io/badge/Codeforces-Compete-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
 
@@ -463,7 +471,7 @@ Goals:
 
 ### 🎯 **LeetCode Badges & Achievements**
 <div align="center">
-  
+
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Satyampandey1802/)
 [![Problems Solved](https://img.shields.io/badge/Problems%20Solved-Check%20Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Satyampandey1802/)
 [![Contest Rating](https://img.shields.io/badge/Contest%20Rating-View%20Stats-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Satyampandey1802/)
@@ -472,17 +480,27 @@ Goals:
 
 ### 📈 **Coding Stats & Progress**
 <div align="center">
-  
-<!-- LeetCode Stats Card -->
+
+<!-- LeetCode Stats Card with Contest Extension -->
 <a href="https://leetcode.com/u/Satyampandey1802/">
-  <img src="https://leetcard.jacoblin.cool/Satyampandey1802?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Satyampandey1802?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" width="49%" />
+</a>
+
+</div>
+
+### 🔥 **LeetCode Heatmap**
+<div align="center">
+
+<!-- LeetCode Activity Heatmap -->
+<a href="https://leetcode.com/u/Satyampandey1802/">
+  <img src="https://leetcard.jacoblin.cool/Satyampandey1802?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Heatmap" width="90%" />
 </a>
 
 </div>
 
 ### 🎖️ **Achievements**
 <div align="center">
-  
+
 [![50 Days Badge](https://img.shields.io/badge/50%20Days-Badge%202024-blue?style=plastic&logo=leetcode)](https://leetcode.com/u/Satyampandey1802/)
 [![100 Days Badge](https://img.shields.io/badge/100%20Days-Badge%202024-green?style=plastic&logo=leetcode)](https://leetcode.com/u/Satyampandey1802/)
 
@@ -491,6 +509,71 @@ Goals:
 ### 💪 **Coding Consistency**
 <p align="center">
   <em>"Consistency is key to mastering algorithms and data structures!"</em><br>
+</p>
+
+---
+
+## ⚡ **Codeforces Journey**
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=1F8ACB&center=true&vCenter=true&width=500&lines=Competitive+Programming+on+Codeforces+%F0%9F%9A%80;Rated+Contestant+%7C+saam-pande;Problem+Solving+%7C+Graph+Theory+%7C+DP" alt="CF Typing" />
+
+</div>
+
+### 🎯 **Codeforces Profile Badge**
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-saam--pande-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/saam-pande)
+[![CF Participate](https://img.shields.io/badge/Contests-Participating-00D9FF?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/saam-pande)
+[![CF Problems](https://img.shields.io/badge/Problems-Solving-00ff41?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/saam-pande)
+
+</div>
+
+### 📊 **Stats Card**
+<div align="center">
+
+<!-- Codeforces Stats Card -->
+<a href="https://codeforces.com/profile/saam-pande">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=saam-pande&theme=tokyonight&force_username=true" alt="Codeforces Stats" width="49%" />
+</a>
+&nbsp;
+<!-- Codeforces Badge Card -->
+<a href="https://codeforces.com/profile/saam-pande">
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=saam-pande&theme=tokyonight&force_username=true" alt="Codeforces Badge" width="49%" />
+</a>
+
+</div>
+
+### 📈 **Rating Graph**
+<div align="center">
+
+<!-- Codeforces Rating Graph -->
+<a href="https://codeforces.com/profile/saam-pande">
+  <img src="https://codeforces-stats-vlx.vercel.app/api/graph?username=saam-pande&theme=tokyonight" alt="Codeforces Rating Graph" width="90%" />
+</a>
+
+</div>
+
+### 🏆 **Solved by Difficulty**
+<div align="center">
+
+<!-- Codeforces Detailed Stats -->
+<table align="center" border="0" cellspacing="10" cellpadding="10">
+  <tr>
+    <td align="center">
+      <a href="https://codeforces.com/profile/saam-pande">
+        <img src="https://codeforces-stats-vlx.vercel.app/api/card?username=saam-pande&theme=tokyonight" alt="CF Stats Card" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+### 💪 **Competitive Mindset**
+<p align="center">
+  <em>"Every problem solved is a step closer to becoming a Grandmaster!"</em><br>
 </p>
 
 ---
