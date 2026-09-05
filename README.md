@@ -655,7 +655,7 @@ Goals:
 ## 🎧 **Soundtrack to My Code & Systems**
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ewjowcq5m7qcbwv5g5aouia74i&redirect=true" target="_blank">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ewjowcq5m7qcbwv5g5aouia74i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ewjowcq5m7qcbwv5g5aouia74i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true" alt="Spotify Now Playing" />
 </a>
 
 <br/><br/>
