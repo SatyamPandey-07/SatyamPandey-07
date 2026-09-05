@@ -660,26 +660,9 @@ Goals:
 
 <br/><br/>
 
-<p align="center">
-  <b>⚡ Fueling Late-Night Kernels & Hackathon Sprints:</b><br/><br/>
-  <!-- YouTube Liked Videos & Music Playlist -->
-  <a href="https://www.youtube.com/playlist?list=LL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube%20Music-My%20Liked%20Videos%20%26%20Favorites-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=10141d" alt="YouTube Liked Videos" />
-  </a>
-  <br/><br/>
-  <!-- Streaming & Curated Vibes -->
-  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Lofi%20Girl%20Live%20Stream-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=10141d" alt="Lofi Girl YouTube" />
-  </a>
-  &nbsp;
-  <a href="https://open.spotify.com/genre/synthwave" target="_blank">
-    <img src="https://img.shields.io/badge/Synthwave%20%2F%20Cyberpunk-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=10141d" alt="Synthwave" />
-  </a>
-  &nbsp;
-  <a href="https://open.spotify.com/genre/focus" target="_blank">
-    <img src="https://img.shields.io/badge/Deep%20Focus%20Ambient-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=10141d" alt="Focus" />
-  </a>
-</p>
+<a href="https://open.spotify.com/user/31ewjowcq5m7qcbwv5g5aouia74i" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-My%20Liked%20Songs%20%26%20Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=10141d" alt="Spotify Liked Songs" />
+</a>
 
 </div>
 
