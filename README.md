@@ -334,7 +334,9 @@ const satyam = {
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamPandey-07&custom_title=Satyam's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
+<div align="center">
+  <img src="https://github.pumbas.net/api/contributions/SatyamPandey-07?colour=00D9FF&dotColour=00FF41&bgColour=0d1117" width="100%" alt="Satyam's Contribution Graph" />
+</div>
 
 ## 🎯 Current Focus
 
