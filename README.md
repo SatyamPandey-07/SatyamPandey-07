@@ -194,17 +194,6 @@ const satyam = {
 
 <br/>
 
-<!-- Badges -->
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/MODE-HUNT-00d9ff?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/THREAT-MAX-ff0040?style=for-the-badge&labelColor=000000" />
-
-<br/>
-
-<!-- Bottom Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Auto+Updates+Every+12+Hours" alt="Stats" />
-
-<br/>
 
 </div>
 
