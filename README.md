@@ -660,8 +660,8 @@ Goals:
 
 <br/><br/>
 
-<a href="https://open.spotify.com/user/31ewjowcq5m7qcbwv5g5aouia74i" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-My%20Liked%20Songs%20%26%20Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=10141d" alt="Spotify Liked Songs" />
+<a href="https://open.spotify.com/playlist/50gLjtecAm1HW13AolfPMC" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-FAV--OUR--ITE%20Playlist%20(100%20Tracks)-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=10141d" alt="FAV-OUR-ITE Spotify Playlist" />
 </a>
 
 </div>
