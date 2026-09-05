@@ -647,6 +647,36 @@ Goals:
 
 ---
 
+<!-- ==================== 🎧 SPOTIFY & CODING SOUNDTRACK ==================== -->
+<div align="center">
+
+## 🎧 **Soundtrack to My Code & Systems**
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ewjowcq5m7qcbwv5g5aouia74i&redirect=true" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ewjowcq5m7qcbwv5g5aouia74i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true" alt="Spotify Now Playing" />
+</a>
+
+<br/><br/>
+
+<p align="center">
+  <b>⚡ Fueling Late-Night Kernels & Hackathon Sprints:</b><br/>
+  <a href="https://open.spotify.com/genre/synthwave" target="_blank">
+    <img src="https://img.shields.io/badge/Synthwave%20%2F%20Cyberpunk-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=10141d" alt="Synthwave" />
+  </a>
+  &nbsp;
+  <a href="https://open.spotify.com/genre/lo-fi" target="_blank">
+    <img src="https://img.shields.io/badge/Lo--Fi%20Coding%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=10141d" alt="Lo-Fi" />
+  </a>
+  &nbsp;
+  <a href="https://open.spotify.com/genre/focus" target="_blank">
+    <img src="https://img.shields.io/badge/Deep%20Focus%20Ambient-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=10141d" alt="Focus" />
+  </a>
+</p>
+
+</div>
+
+---
+
 ## 💖 **Show Some Love!**
 
 💖 **Drop a star** ⭐ on my repositories if you like my work! 🚀  
