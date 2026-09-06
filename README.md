@@ -174,7 +174,7 @@ const satyam = {
   <a href="https://github.com/cilium" target="_blank">
     <img src="https://img.shields.io/badge/Cilium-20164A?style=for-the-badge&logo=cilium&logoColor=white" alt="Cilium" />
   </a>
-  &nbsp;
+  <br/><br/>
   <a href="https://github.com/jaegertracing" target="_blank">
     <img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=black" alt="Jaeger" />
   </a>
@@ -186,9 +186,13 @@ const satyam = {
   <a href="https://github.com/kyverno" target="_blank">
     <img src="https://img.shields.io/badge/Kyverno-1B4B6C?style=for-the-badge&logo=cncf&logoColor=white" alt="Kyverno" />
   </a>
-  <br/><br/>
+  &nbsp;
   <a href="https://github.com/meshery" target="_blank">
     <img src="https://img.shields.io/badge/Meshery-00B39F?style=for-the-badge&logo=cncf&logoColor=white" alt="Meshery" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/keploy" target="_blank">
+    <img src="https://img.shields.io/badge/Keploy-0A1628?style=for-the-badge&logo=keploy&logoColor=FF9800" alt="Keploy" />
   </a>
   &nbsp;
   <a href="https://github.com/podman-container-tools" target="_blank">
@@ -201,6 +205,10 @@ const satyam = {
   &nbsp;
   <a href="https://github.com/openMF" target="_blank">
     <img src="https://img.shields.io/badge/OpenMF-0083C5?style=for-the-badge&logo=github&logoColor=white" alt="OpenMF" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/learning-unlimited" target="_blank">
+    <img src="https://img.shields.io/badge/Learning_Unlimited-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Learning Unlimited" />
   </a>
   &nbsp;
   <a href="https://github.com/conflux-labs" target="_blank">
@@ -219,8 +227,8 @@ const satyam = {
 | Ecosystem / Domain | Organizations & Projects Contributed To |
 | :--- | :--- |
 | ☁️ **Cloud Native & Systems (CNCF)** | [@open-telemetry](https://github.com/open-telemetry) • [@prometheus](https://github.com/prometheus) • [@cilium](https://github.com/cilium) • [@jaegertracing](https://github.com/jaegertracing) • [@kubeflow](https://github.com/kubeflow) • [@kyverno](https://github.com/kyverno) • [@meshery](https://github.com/meshery) |
-| 🛡️ **Foundations, Security & Containers** | [@apache](https://github.com/apache) • [@OWASP](https://github.com/OWASP) • [@podman-container-tools](https://github.com/podman-container-tools) • [@openMF](https://github.com/openMF) |
-| 🚀 **Web3, Hackathons & Community** | [@conflux-labs](https://github.com/conflux-labs) • [@DataHack4-0](https://github.com/DataHack4-0) • [@firstcontributions](https://github.com/firstcontributions) |
+| 🛡️ **Foundations, Security & Tooling** | [@apache](https://github.com/apache) • [@OWASP](https://github.com/OWASP) • [@keploy](https://github.com/keploy) • [@podman-container-tools](https://github.com/podman-container-tools) • [@openMF](https://github.com/openMF) |
+| 🚀 **Web3, EdTech & Community** | [@conflux-labs](https://github.com/conflux-labs) • [@DataHack4-0](https://github.com/DataHack4-0) • [@learning-unlimited](https://github.com/learning-unlimited) • [@firstcontributions](https://github.com/firstcontributions) |
 
 ---
 
