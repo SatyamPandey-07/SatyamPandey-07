@@ -154,11 +154,6 @@ const satyam = {
 
 ## 🏛️ Organizations Contributed To
 
-<div align="center">
-  <a href="https://github.com/SatyamPandey-07" target="_blank">
-    <img src="public/organizations-banner.png" alt="Organizations Contributed To" width="100%" />
-  </a>
-</div>
 
 <br/>
 
