@@ -152,17 +152,75 @@ const satyam = {
 
 ---
 
-## 🌐 Open Source Highlight: CNCF OpenTelemetry (`otelc`)
+## 🏛️ Organizations & Open Source Ecosystems Contributed To
 
-<div align="center">
-  <img src="https://img.shields.io/badge/CNCF-OpenTelemetry_Go_Instrumentation-00D9FF?style=for-the-badge&logo=opentelemetry&logoColor=white&labelColor=000000" />
-</div>
+<p align="center">
+  <em>Proud contributor to enterprise foundations, cloud-native projects, security tooling, and developer communities.</em>
+</p>
 
-* **#554 (Merged):** Authored zero-code compile-time auto-instrumentation for the official MongoDB Go driver.
-* **#662 & #669:** Engineered cross-process distributed trace propagation test suites across Kafka and Gin service boundaries.
-* **#1052 & #1078:** Resolved compiler profile-path misidentification bugs and hardened AST `scanArgs` directive parsing.
-* **#575 & #896 (Merged):** Enforced a $\ge$70% baseline unit-test CI coverage gate across the entire repository.
-* **#1020 (Merged):** Created server span root-propagation regression suites safeguarding distributed trace invariants.
+<p align="center">
+  <a href="https://github.com/open-telemetry" target="_blank">
+    <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/apache" target="_blank">
+    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/prometheus" target="_blank">
+    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/cilium" target="_blank">
+    <img src="https://img.shields.io/badge/Cilium-20164A?style=for-the-badge&logo=cilium&logoColor=white" alt="Cilium" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jaegertracing" target="_blank">
+    <img src="https://img.shields.io/badge/Jaeger-60D0E4?style=for-the-badge&logo=jaeger&logoColor=black" alt="Jaeger" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kubeflow" target="_blank">
+    <img src="https://img.shields.io/badge/Kubeflow-007D9C?style=for-the-badge&logo=kubeflow&logoColor=white" alt="Kubeflow" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kyverno" target="_blank">
+    <img src="https://img.shields.io/badge/Kyverno-1B4B6C?style=for-the-badge&logo=cncf&logoColor=white" alt="Kyverno" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/meshery" target="_blank">
+    <img src="https://img.shields.io/badge/Meshery-00B39F?style=for-the-badge&logo=cncf&logoColor=white" alt="Meshery" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/podman-container-tools" target="_blank">
+    <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/OWASP" target="_blank">
+    <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/openMF" target="_blank">
+    <img src="https://img.shields.io/badge/OpenMF-0083C5?style=for-the-badge&logo=github&logoColor=white" alt="OpenMF" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/conflux-labs" target="_blank">
+    <img src="https://img.shields.io/badge/Conflux_Labs-1E3A8A?style=for-the-badge&logo=github&logoColor=white" alt="Conflux Labs" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/DataHack4-0" target="_blank">
+    <img src="https://img.shields.io/badge/DataHack_4.0-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="DataHack 4.0" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/firstcontributions" target="_blank">
+    <img src="https://img.shields.io/badge/First_Contributions-2088FF?style=for-the-badge&logo=github&logoColor=white" alt="First Contributions" />
+  </a>
+</p>
+
+| Ecosystem / Domain | Organizations & Projects Contributed To |
+| :--- | :--- |
+| ☁️ **Cloud Native & Systems (CNCF)** | [@open-telemetry](https://github.com/open-telemetry) • [@prometheus](https://github.com/prometheus) • [@cilium](https://github.com/cilium) • [@jaegertracing](https://github.com/jaegertracing) • [@kubeflow](https://github.com/kubeflow) • [@kyverno](https://github.com/kyverno) • [@meshery](https://github.com/meshery) |
+| 🛡️ **Foundations, Security & Containers** | [@apache](https://github.com/apache) • [@OWASP](https://github.com/OWASP) • [@podman-container-tools](https://github.com/podman-container-tools) • [@openMF](https://github.com/openMF) |
+| 🚀 **Web3, Hackathons & Community** | [@conflux-labs](https://github.com/conflux-labs) • [@DataHack4-0](https://github.com/DataHack4-0) • [@firstcontributions](https://github.com/firstcontributions) |
 
 ---
 
