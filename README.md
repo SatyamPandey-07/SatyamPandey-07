@@ -343,59 +343,7 @@ const satyam = {
 
 ---
 
-<div align="center">
-
-<!-- Top Border -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=4" width="100%"/>
-
-<br/>
-
-<!-- Telemetry Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+DEVELOPER+TELEMETRY+%26+METRICS;%F0%9F%93%88+REAL-TIME+CODING+RADAR;%F0%9F%92%BB+8%2C050%2B+CONTRIBUTIONS+%7C+140+REPOS" alt="Telemetry Header" />
-
-<br/>
-
-<!-- Quick Telemetry HUD Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributions-8%2C052%2B_in_2026-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Contributions" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Public_Repos-140-00ff41?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Public Repos" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Storage-1.2_MB-FFA116?style=for-the-badge&logo=buffer&logoColor=white&labelColor=0d1117" alt="Storage" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="Editor" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Timezone-Asia%2FKolkata_(IST)-blueviolet?style=for-the-badge&logo=clock&logoColor=white&labelColor=0d1117" alt="Timezone" />
-</p>
-
-</div>
-
-<br/>
-
-### 🕒 **Diurnal Rhythm & Productivity Radar**
-
-```text
-I'm an Early 🐤
-
-🌅 Morning (06:00-12:00)   160 commits   ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-☀️ Daytime (12:00-18:00)   243 commits   █████████░░░░░░░░░░░░░░░░   35.01 % 
-🌆 Evening (18:00-24:00)   289 commits   ██████████░░░░░░░░░░░░░░░   41.64 % 
-🌙 Night   (00:00-06:00)     2 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-
-📅 Peak Productivity: Saturday
-
-Monday                     94 commits   ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Tuesday                    73 commits   ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Wednesday                  67 commits   ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Thursday                   62 commits   ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Friday                     60 commits   ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Saturday                  206 commits   ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-Sunday                    132 commits   █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-```
-
-<br/>
-
-### ⚡ **Live WakaTime & Polyglot Telemetry**
+## 📈 **WakaTime & Dev Metrics**
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2019%20mins-blue?style=flat)
@@ -442,14 +390,6 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=4" width="100%"/>
-</div>
-
-<br/>
 
 ---
 
