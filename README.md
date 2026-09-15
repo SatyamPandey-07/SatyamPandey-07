@@ -346,65 +346,83 @@ const satyam = {
 ## 📈 **WakaTime & Dev Metrics**
 
 <!--START_SECTION:waka-->
-### 📈 𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 :
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-- 🐱 **My GitHub Data**
-  - 📦 `?` Used in GitHub's Storage
-  - 🏆 `425` Contributions in the Year 2025
-  - 🚫 Not Opted to Hire
-  - 📜 `19` Public Repositories
-  - 🔑 `0` Private Repositories
+**🐱 My GitHub Data** 
+
+> 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 8,004 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 140 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-I'm an Early 🐤
+🌞 Morning                1283 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+🌆 Daytime                60762 commits       ███████████████████████░░   90.88 % 
+🌃 Evening                2157 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+🌙 Night                  2658 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+```
+📅 **I'm Most Productive on Friday** 
 
-🌞 Morning                160 commits         ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-🌆 Daytime                243 commits         █████████░░░░░░░░░░░░░░░░   35.01 % 
-🌃 Evening                289 commits         ██████████░░░░░░░░░░░░░░░   41.64 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+```text
+Monday                   2054 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Tuesday                  898 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Wednesday                985 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Thursday                 1065 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Friday                   55884 commits       █████████████████████░░░░   83.58 % 
+Saturday                 4429 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Sunday                   1545 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+```
 
-📅 I'm Most Productive on Saturday
 
-Monday                   94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Tuesday                  73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Wednesday                67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-Thursday                 62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Friday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Saturday                 206 commits         ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-Sunday                   132 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+📊 **This Week I Spent My Time On** 
 
-📊 This Week I Spent My Time On
-
+```text
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.11 % 
-Bash                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-JSON                     39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-CSS                      30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-C++                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
-🐱💻 Projects: 
-MERN-Expense-Tracker     2 hrs 25 mins       █████████████░░░░░░░░░░░░   51.35 % 
-Book-Reading-Tracker     1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-CPP                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-backend                  17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 43 mins       █████████████████████████   100.00 % 
-
-I Mostly Code in JavaScript
-
-JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
-HTML                     6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
-CSS                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+No Activity Tracked This Week
 ```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+TypeScript               28 repos            ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Python                   22 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+PowerShell               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SatyamPandey-07/SatyamPandey-07/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/09/2026 14:25:16 UTC
 <!--END_SECTION:waka-->
 
 ---
