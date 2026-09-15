@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Satyam%20Pandey&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Systems%20and%20Go%20Engineer%20%7C%20CNCF%20Contributor%20%7C%205x%20Hackathon%20Winner&descAlignY=56&descAlign=50" width="100%"/>
 
-<!-- Typing Animation -->
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=CNCF+OpenTelemetry+Core+Contributor+%F0%9F%8C%90;5x+National+Hackathon+Winner+%F0%9F%8F%86;Building+Autonomous+Agents+%26+Systems+in+Go+%E2%9A%A1;Model+Context+Protocol+(MCP)+%26+Tracing+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
