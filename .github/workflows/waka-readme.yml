@@ -5,9 +5,6 @@ on:
     # Runs at 12:00 AM IST (18:30 UTC) every day
     - cron: '30 18 * * *'
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -32,3 +29,4 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_PROFILE_VIEWS: "False"
           COMMIT_BY_ME: "True"
+          COMMIT_MESSAGE: "Updated with Dev Metrics [skip ci]"
