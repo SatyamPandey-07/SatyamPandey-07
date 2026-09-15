@@ -346,11 +346,15 @@ const satyam = {
 ## 📈 **WakaTime & Dev Metrics**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2041%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2012%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 8,072 Contributions in the Year 2026
+> 🏆 8,082 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -358,6 +362,54 @@ const satyam = {
  > 
 > 🔑 5 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+TypeScript               3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.89 % 
+Markdown                 2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+YAML                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+TeX                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+
+🔥 Editors: 
+Antigravity IDE          8 hrs 8 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+frontend                 3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.34 % 
+SatyamPandey-07          2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+VIGIL                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+afifa                    1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+scratch                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+
+💻 Operating System: 
+Windows                  8 hrs 8 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 7 mins (99.87%)
+
+✍️ 677 lines written by AI, 1 lines written by hand (99.85% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 84 AI Prompts
+
+Gemini                   878 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.85% of written lines came from AI
+📝 Concise Prompter — average 466 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -371,7 +423,7 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 20:40:40 UTC
+ Last Updated on 15/09/2026 21:37:03 UTC
 <!--END_SECTION:waka-->
 
 ---
