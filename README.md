@@ -351,7 +351,7 @@ const satyam = {
 <br/>
 
 <!-- Telemetry Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+DEVELOPER+TELEMETRY+%26+DEV+RADAR;%F0%9F%93%88+REAL-TIME+CODING+ACTIVITY+%7C+WAKATIME;%F0%9F%92%BB+8%2C050%2B+CONTRIBUTIONS+%7C+140+REPOSITORIES" alt="Telemetry Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=%E2%9A%A1+DEVELOPER+TELEMETRY+%26+METRICS;%F0%9F%93%88+REAL-TIME+CODING+RADAR;%F0%9F%92%BB+8%2C050%2B+CONTRIBUTIONS+%7C+140+REPOS" alt="Telemetry Header" />
 
 <br/>
 
@@ -372,11 +372,7 @@ const satyam = {
 
 <br/>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3 align="center">🕒 Diurnal Rhythm & Commit Radar</h3>
+### 🕒 **Diurnal Rhythm & Productivity Radar**
 
 ```text
 I'm an Early 🐤
@@ -397,10 +393,9 @@ Saturday                  206 commits   ███████░░░░░░�
 Sunday                    132 commits   █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
 ```
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-<h3 align="center">⚡ Live WakaTime Telemetry</h3>
+### ⚡ **Live WakaTime & Polyglot Telemetry**
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2019%20mins-blue?style=flat)
@@ -447,10 +442,6 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-</td>
-</tr>
-</table>
 
 <br/>
 
