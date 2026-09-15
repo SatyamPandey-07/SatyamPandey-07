@@ -352,7 +352,7 @@ const satyam = {
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 8,025 Contributions in the Year 2026
+> 🏆 8,052 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -360,27 +360,6 @@ const satyam = {
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -399,6 +378,20 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+**I Mostly Code in JavaScript** 
+
+```text
+TypeScript               28 repos            ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Python                   22 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+PowerShell               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+```
+
+
+
+
+ Last Updated on 15/09/2026 16:39:19 UTC
 <!--END_SECTION:waka-->
 
 ---
