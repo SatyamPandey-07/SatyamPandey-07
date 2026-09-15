@@ -343,10 +343,67 @@ const satyam = {
 
 ---
 
-## 📈 **WakaTime & Dev Metrics**
+<div align="center">
+
+<!-- Top Border -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=4" width="100%"/>
+
+<br/>
+
+<!-- Telemetry Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%E2%9A%A1+DEVELOPER+TELEMETRY+%26+DEV+RADAR;%F0%9F%93%88+REAL-TIME+CODING+ACTIVITY+%7C+WAKATIME;%F0%9F%92%BB+8%2C050%2B+CONTRIBUTIONS+%7C+140+REPOSITORIES" alt="Telemetry Header" />
+
+<br/>
+
+<!-- Quick Telemetry HUD Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-8%2C052%2B_in_2026-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Contributions" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Public_Repos-140-00ff41?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Public Repos" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Storage-1.2_MB-FFA116?style=for-the-badge&logo=buffer&logoColor=white&labelColor=0d1117" alt="Storage" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="Editor" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Timezone-Asia%2FKolkata_(IST)-blueviolet?style=for-the-badge&logo=clock&logoColor=white&labelColor=0d1117" alt="Timezone" />
+</p>
+
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🕒 Diurnal Rhythm & Commit Radar</h3>
+
+```text
+I'm an Early 🐤
+
+🌅 Morning (06:00-12:00)   160 commits   ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+☀️ Daytime (12:00-18:00)   243 commits   █████████░░░░░░░░░░░░░░░░   35.01 % 
+🌆 Evening (18:00-24:00)   289 commits   ██████████░░░░░░░░░░░░░░░   41.64 % 
+🌙 Night   (00:00-06:00)     2 commits   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+
+📅 Peak Productivity: Saturday
+
+Monday                     94 commits   ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Tuesday                    73 commits   ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Wednesday                  67 commits   ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Thursday                   62 commits   ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Friday                     60 commits   ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Saturday                  206 commits   ███████░░░░░░░░░░░░░░░░░░   29.68 % 
+Sunday                    132 commits   █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+```
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">⚡ Live WakaTime Telemetry</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2019%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -366,19 +423,20 @@ const satyam = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 6 mins        ███████████░░░░░░░░░░░░░░   49.13 % 
+Markdown                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.32 % 
+TeX                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+VS Code                  6 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**Repository Polyglot Breakdown** 
 
 ```text
 TypeScript               28 repos            ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
@@ -388,11 +446,19 @@ PowerShell               3 repos             █░░░░░░░░░░�
 Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 
-
-
-
- Last Updated on 15/09/2026 16:39:19 UTC
 <!--END_SECTION:waka-->
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=4" width="100%"/>
+</div>
+
+<br/>
 
 ---
 
