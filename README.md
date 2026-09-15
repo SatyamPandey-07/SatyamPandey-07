@@ -346,7 +346,8 @@ const satyam = {
 ## 📈 **WakaTime & Dev Metrics**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%209%20mins-purple?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -366,17 +367,46 @@ const satyam = {
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 6 mins        ███████████░░░░░░░░░░░░░░   49.13 % 
-Markdown                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.32 % 
-TeX                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+TypeScript               3 hrs 6 mins        ███████████░░░░░░░░░░░░░░   43.36 % 
+Markdown                 1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+TeX                      47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Python                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 19 mins       █████████████████████████   100.00 % 
+Antigravity IDE          7 hrs 9 mins        █████████████████████████   100.00 % 
+
+🐱💻 Projects: 
+frontend                 3 hrs 11 mins       ███████████░░░░░░░░░░░░░░   44.52 % 
+SatyamPandey-07          1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+afifa                    1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+VIGIL                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+scratch                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 💻 Operating System: 
-Windows                  6 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 9 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 9 mins (100.00%)
+
+✍️ 792 lines written by AI, 1 line written by hand (99.87% AI-written)
+
+🧠 10 AI Sessions, 70 AI Prompts
+
+Gemini                   792 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.87% of written lines came from AI
+📄 Detailed Prompter — average 850 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 **Repository Polyglot Breakdown** 
