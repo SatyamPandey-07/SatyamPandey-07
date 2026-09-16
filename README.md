@@ -388,28 +388,6 @@ scratch                  21 mins             █░░░░░░░░░░�
 Windows                  8 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 7 mins (99.87%)
-
-✍️ 677 lines written by AI, 1 lines written by hand (99.85% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 84 AI Prompts
-
-Gemini                   878 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📝 Concise Prompter — average 466 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
