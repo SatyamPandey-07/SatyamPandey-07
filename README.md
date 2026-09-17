@@ -346,13 +346,13 @@ const satyam = {
 ## 📈 **WakaTime & Dev Metrics**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 8,142 Contributions in the Year 2026
+> 🏆 8,166 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -360,67 +360,47 @@ const satyam = {
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                28 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-🌆 Daytime                46 commits          ███████████░░░░░░░░░░░░░░   46.94 % 
-🌃 Evening                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   18.37 % 
-🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-```
-
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Tuesday                  22 commits          █████░░░░░░░░░░░░░░░░░░░░   22.45 % 
-Wednesday                26 commits          ██████░░░░░░░░░░░░░░░░░░░   26.53 % 
-Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Friday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-```
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 9 mins        ██████████░░░░░░░░░░░░░░░   38.89 % 
-Markdown                 2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-YAML                     1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-TeX                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+TypeScript               4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Markdown                 3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+YAML                     2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Other                    1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Java                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 
 🔥 Editors: 
-Antigravity IDE          8 hrs 8 mins        █████████████████████████   100.00 % 
+Antigravity IDE          9 hrs 44 mins       █████████████░░░░░░░░░░░░   50.30 % 
+Claude Code              9 hrs 36 mins       ████████████░░░░░░░░░░░░░   49.70 % 
 
 🐱‍💻 Projects: 
-frontend                 3 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.34 % 
-SatyamPandey-07          2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.04 % 
-VIGIL                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-afifa                    1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-scratch                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+VIGIL                    10 hrs 48 mins      ██████████████░░░░░░░░░░░   55.85 % 
+frontend                 3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+SatyamPandey-07          2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+urbanpulse-android-master1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+afifa                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 💻 Operating System: 
-Windows                  8 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  19 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               29 repos            ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-Python                   22 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Jupyter Notebook         13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-PowerShell               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-Kotlin                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
+Python                   4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 16/09/2026 21:32:12 UTC
+ Last Updated on 17/09/2026 12:46:34 UTC
 <!--END_SECTION:waka-->
 
 ---
