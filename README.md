@@ -348,8 +348,6 @@ const satyam = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20hrs%2012%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
@@ -362,6 +360,27 @@ const satyam = {
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                28 commits          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+🌆 Daytime                46 commits          ███████████░░░░░░░░░░░░░░   46.94 % 
+🌃 Evening                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   18.37 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+```
+
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Tuesday                  22 commits          █████░░░░░░░░░░░░░░░░░░░░   22.45 % 
+Wednesday                26 commits          ██████░░░░░░░░░░░░░░░░░░░   26.53 % 
+Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Friday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Sunday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+```
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -386,28 +405,6 @@ scratch                  21 mins             █░░░░░░░░░░�
 
 💻 Operating System: 
 Windows                  8 hrs 8 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 8 hrs 7 mins (99.87%)
-
-✍️ 677 lines written by AI, 1 lines written by hand (99.85% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 84 AI Prompts
-
-Gemini                   878 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.85% of written lines came from AI
-📝 Concise Prompter — average 466 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
