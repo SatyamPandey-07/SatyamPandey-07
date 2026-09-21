@@ -346,13 +346,13 @@ const satyam = {
 ## 📈 **WakaTime & Dev Metrics**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2023%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 8,271 Contributions in the Year 2026
+> 🏆 8,280 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -387,25 +387,25 @@ Sunday                   330 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-TypeScript               3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-YAML                     3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Other                    2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Go                       2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Markdown                 4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+TypeScript               3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+YAML                     3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Other                    2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Go                       2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 
 🔥 Editors: 
-Antigravity IDE          12 hrs 55 mins      █████████████░░░░░░░░░░░░   50.95 % 
-Claude Code              12 hrs 27 mins      ████████████░░░░░░░░░░░░░   49.05 % 
+Antigravity IDE          15 hrs 6 mins       ██████████████░░░░░░░░░░░   54.83 % 
+Claude Code              12 hrs 27 mins      ███████████░░░░░░░░░░░░░░   45.17 % 
 
 🐱‍💻 Projects: 
-VIGIL                    13 hrs 59 mins      ██████████████░░░░░░░░░░░   55.12 % 
-SatyamPandey-07          2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-urbanpulse-android-master1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-frontend                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-kubescape                1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+VIGIL                    15 hrs 36 mins      ██████████████░░░░░░░░░░░   56.64 % 
+SatyamPandey-07          2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+urbanpulse-android-master1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+kubescape                1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+frontend                 1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 💻 Operating System: 
-Windows                  25 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -421,7 +421,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 21:09:07 UTC
+ Last Updated on 21/09/2026 22:20:18 UTC
 <!--END_SECTION:waka-->
 
 ---
