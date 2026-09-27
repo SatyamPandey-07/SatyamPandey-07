@@ -346,13 +346,13 @@ const satyam = {
 ## 📈 **WakaTime & Dev Metrics**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2057%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 8,345 Contributions in the Year 2026
+> 🏆 8,415 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -363,21 +363,21 @@ const satyam = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                995 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-🌆 Daytime                60049 commits       ████████████████████████░   95.37 % 
-🌃 Evening                898 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-🌙 Night                  1023 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+🌞 Morning                1229 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+🌆 Daytime                60453 commits       ███████████████████████░░   92.99 % 
+🌃 Evening                1204 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+🌙 Night                  2126 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   604 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Tuesday                  668 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Wednesday                1474 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Thursday                 1086 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Friday                   55488 commits       ██████████████████████░░░   88.13 % 
-Saturday                 3266 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Sunday                   379 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Monday                   604 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Tuesday                  720 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Wednesday                2254 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Thursday                 1372 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Friday                   55488 commits       █████████████████████░░░░   85.35 % 
+Saturday                 3702 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+Sunday                   872 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 
 
@@ -387,24 +387,24 @@ Sunday                   379 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Go                       3 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   35.02 % 
-Other                    2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-JavaScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Python                   4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+Dart                     2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Other                    2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Go                       1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+JavaScript               1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 🔥 Editors: 
-Antigravity IDE          10 hrs 31 mins      █████████████████████████   100.00 % 
+Antigravity IDE          17 hrs 8 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kubescape                3 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.37 % 
-VIGIL                    1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-camel-quarkus            40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Unknown Project          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Amazon-ML-Challenge      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Amazon-ML-Challenge      5 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.88 % 
+urbanpulse-android-master4 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+kubescape                2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+VIGIL                    1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+WorkSphere               1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 💻 Operating System: 
-Windows                  10 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -420,7 +420,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2026 21:36:18 UTC
+ Last Updated on 27/09/2026 21:44:18 UTC
 <!--END_SECTION:waka-->
 
 ---
