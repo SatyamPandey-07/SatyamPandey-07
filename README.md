@@ -346,13 +346,13 @@ const satyam = {
 ## 📈 **WakaTime & Dev Metrics**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2058%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 8,436 Contributions in the Year 2026
+> 🏆 8,446 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -364,8 +364,8 @@ const satyam = {
 
 ```text
 🌞 Morning                1229 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-🌆 Daytime                60458 commits       ███████████████████████░░   93.01 % 
-🌃 Evening                1188 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+🌆 Daytime                60458 commits       ███████████████████████░░   93.00 % 
+🌃 Evening                1192 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 🌙 Night                  2127 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -373,10 +373,10 @@ const satyam = {
 ```text
 Monday                   597 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 Tuesday                  731 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Wednesday                2254 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Wednesday                2258 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 Thursday                 1368 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 Friday                   55488 commits       █████████████████████░░░░   85.36 % 
-Saturday                 3702 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Saturday                 3702 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 Sunday                   862 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
@@ -387,25 +387,25 @@ Sunday                   862 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     9 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.98 % 
-Python                   7 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Other                    2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-Image (png)              1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Markdown                 1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Dart                     9 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+Python                   7 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+Other                    2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+TypeScript               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Markdown                 1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 Editors: 
-Antigravity IDE          25 hrs 53 mins      ████████████████████░░░░░   81.36 % 
-Claude Code              5 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Antigravity IDE          27 hrs 12 mins      █████████████████████░░░░   82.10 % 
+Claude Code              5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
 
 🐱‍💻 Projects: 
-urbanpulse-android-master17 hrs 17 mins      ██████████████░░░░░░░░░░░   54.37 % 
-Amazon-ML-Challenge      6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-WorkSphere               3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-SIH_SOFTWARE             1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Unknown Project          37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+urbanpulse-android-master17 hrs 17 mins      █████████████░░░░░░░░░░░░   52.21 % 
+Amazon-ML-Challenge      6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+WorkSphere               4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+SIH_SOFTWARE             1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+Unknown Project          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 💻 Operating System: 
-Windows                  31 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -421,7 +421,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 22:44:50 UTC
+ Last Updated on 30/09/2026 22:42:49 UTC
 <!--END_SECTION:waka-->
 
 ---
