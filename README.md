@@ -346,13 +346,13 @@ const satyam = {
 ## 📈 **WakaTime & Dev Metrics**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2034%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 8,461 Contributions in the Year 2026
+> 🏆 8,503 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -364,7 +364,7 @@ const satyam = {
 
 ```text
 🌞 Morning                1229 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-🌆 Daytime                60461 commits       ███████████████████████░░   93.01 % 
+🌆 Daytime                60467 commits       ███████████████████████░░   93.01 % 
 🌃 Evening                1190 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 🌙 Night                  2127 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 ```
@@ -375,7 +375,7 @@ Monday                   597 commits         ░░░░░░░░░░░�
 Tuesday                  731 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 Wednesday                2258 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 Thursday                 1372 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Friday                   55488 commits       █████████████████████░░░░   85.36 % 
+Friday                   55494 commits       █████████████████████░░░░   85.36 % 
 Saturday                 3699 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 Sunday                   862 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
@@ -387,25 +387,25 @@ Sunday                   862 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     9 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-Python                   7 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Other                    2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-TypeScript               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Markdown                 1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Dart                     9 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+Python                   7 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+TypeScript               2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Markdown                 2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Image (png)              1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🔥 Editors: 
-Antigravity IDE          27 hrs 10 mins      █████████████████████░░░░   82.09 % 
-Claude Code              5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Antigravity IDE          27 hrs 16 mins      █████████████████████░░░░   82.14 % 
+Claude Code              5 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
 
 🐱‍💻 Projects: 
-urbanpulse-android-master17 hrs 17 mins      █████████████░░░░░░░░░░░░   52.25 % 
-Amazon-ML-Challenge      6 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-WorkSphere               4 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-SIH_SOFTWARE             1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Unknown Project          48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+urbanpulse-android-master17 hrs 17 mins      █████████████░░░░░░░░░░░░   52.08 % 
+Amazon-ML-Challenge      6 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+WorkSphere               5 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+SIH_SOFTWARE             1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Unknown Project          47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 💻 Operating System: 
-Windows                  33 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  33 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -421,7 +421,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 23:02:40 UTC
+ Last Updated on 02/10/2026 22:41:21 UTC
 <!--END_SECTION:waka-->
 
 ---
