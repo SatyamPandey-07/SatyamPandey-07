@@ -346,17 +346,17 @@ const satyam = {
 ## 📈 **WakaTime & Dev Metrics**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2058%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 9,422 Contributions in the Year 2026
+> 🏆 9,620 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 151 Public Repositories 
+> 📜 150 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -387,25 +387,25 @@ Sunday                   866 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-YAML                     2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Other                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-JavaScript               1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+TypeScript               3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+YAML                     2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Other                    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+JavaScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Markdown                 1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 
 🔥 Editors: 
-Antigravity IDE          11 hrs 23 mins      █████████████████████████   99.94 % 
+Antigravity IDE          12 hrs 28 mins      █████████████████████████   99.94 % 
 Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-WorkSphere               8 hrs 31 mins       ███████████████████░░░░░░   74.79 % 
-CHRONOSCAPE-historical-at58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-hertzbeat                46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-medica                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-aicr                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+WorkSphere               8 hrs 37 mins       █████████████████░░░░░░░░   69.09 % 
+CHRONOSCAPE-historical-at58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Unknown Project          53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+hertzbeat                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+medica                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 💻 Operating System: 
-Windows                  11 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -421,7 +421,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:27:42 UTC
+ Last Updated on 08/10/2026 23:43:37 UTC
 <!--END_SECTION:waka-->
 
 ---
