@@ -346,11 +346,13 @@ const satyam = {
 ## 📈 **WakaTime & Dev Metrics**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%201%20min-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 10,990 Contributions in the Year 2026
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -385,22 +387,22 @@ Sunday                   867 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   53 mins             █████████░░░░░░░░░░░░░░░░   36.30 % 
-YAML                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-TypeScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Text                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Python                   53 mins             ████████░░░░░░░░░░░░░░░░░   33.83 % 
+YAML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+TypeScript               24 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Text                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 26 mins       █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WorkSphere               1 hr 17 mins        █████████████░░░░░░░░░░░░   52.77 % 
-Unknown Project          40 mins             ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-harsh                    28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+WorkSphere               1 hr 27 mins        ██████████████░░░░░░░░░░░   55.99 % 
+Unknown Project          40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+harsh                    28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
 
 💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -416,7 +418,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 19:14:41 UTC
+ Last Updated on 23/10/2026 21:46:52 UTC
 <!--END_SECTION:waka-->
 
 ---
