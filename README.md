@@ -346,38 +346,36 @@ const satyam = {
 ## 📈 **WakaTime & Dev Metrics**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2035%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 10,868 Contributions in the Year 2026
+> 🏆 10,990 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 152 Public Repositories 
+> 📜 153 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1226 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-🌆 Daytime                60489 commits       ███████████████████████░░   93.09 % 
-🌃 Evening                1179 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-🌙 Night                  2082 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+🌞 Morning                1238 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+🌆 Daytime                60544 commits       ███████████████████████░░   93.06 % 
+🌃 Evening                1190 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+🌙 Night                  2086 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   592 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Tuesday                  733 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-Wednesday                2263 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Thursday                 1334 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Friday                   55472 commits       █████████████████████░░░░   85.37 % 
-Saturday                 3719 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Sunday                   863 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Monday                   595 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Tuesday                  737 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Wednesday                2267 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Thursday                 1389 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Friday                   55476 commits       █████████████████████░░░░   85.27 % 
+Saturday                 3727 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Sunday                   867 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 
 
@@ -387,33 +385,30 @@ Sunday                   863 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-Python                   1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-TypeScript               1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Other                    1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Python                   53 mins             █████████░░░░░░░░░░░░░░░░   36.30 % 
+YAML                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+TypeScript               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Text                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
 
 🔥 Editors: 
-Antigravity IDE          9 hrs 19 mins       ███████████████████████░░   90.56 % 
-Claude Code              58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Antigravity IDE          2 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WorkSphere               5 hrs 22 mins       █████████████░░░░░░░░░░░░   52.27 % 
-Unknown Project          2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-LIVING-ADS               1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-CN                       35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-cilium                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+WorkSphere               1 hr 17 mins        █████████████░░░░░░░░░░░░   52.77 % 
+Unknown Project          40 mins             ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+harsh                    28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
 
 💻 Operating System: 
-Windows                  10 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   31.82 % 
+TypeScript               8 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
 Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
@@ -421,7 +416,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 22:04:24 UTC
+ Last Updated on 23/10/2026 19:14:41 UTC
 <!--END_SECTION:waka-->
 
 ---
