@@ -5,15 +5,15 @@
 
   <br/><br/>
 
-  <!-- Branded Hero Banner: Monster // Johan Liebert — With Satyam Pandey Typography -->
+  <!-- Branded Hero Banner: Monster // Johan Liebert — Satyam Pandey Typography -->
   <a href="https://www.satyampandey.tech/">
-    <img src="public/satyam-monster-banner.gif" width="100%" alt="Satyam Pandey — Monster Noir Banner" style="border-radius: 6px;" />
+    <img src="public/satyam-monster-banner.gif" width="100%" alt="Satyam Pandey — Monster Noir Banner" style="border-radius: 4px;" />
   </a>
 
   <br/><br/>
 
   <!-- Crisp White Typing Console -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=780&lines=CNCF+OpenTelemetry+Core+Contributor+(15%2B+PRs);5x+National+Hackathon+Winner;Building+Autonomous+Agents+%26+Systems+in+Go;Model+Context+Protocol+(MCP)+%26+Tracing;In+the+shadows%2C+we+build+what+the+world+relies+on." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=800&lines=CNCF+OpenTelemetry+Core+Contributor+(15%2B+PRs);5x+National+Hackathon+Winner;Building+Autonomous+Agents+%26+Systems+in+Go;Model+Context+Protocol+(MCP)+%26+Distributed+Tracing;In+the+shadows%2C+we+build+what+the+world+relies+on." alt="Typing SVG" />
 
   <br/><br/>
 
@@ -60,15 +60,15 @@
 <br/>
 
 <!-- L & Johan Liebert Dual Aesthetic Display Table -->
-<table align="center" border="0" cellspacing="0" cellpadding="0">
+<table align="center" border="0" cellspacing="6" cellpadding="0" width="100%">
 <tr>
   
 <td width="50%" align="center">
-<img src="https://github.com/user-attachments/assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92" width="100%" alt="L - Death Note" />
+  <img src="https://github.com/user-attachments/assets/1d3cc0b0-a152-439e-971e-1e2e8fe03a92" width="100%" alt="L - Death Note" style="border-radius: 4px;" />
 </td>
 
 <td width="50%" align="center">
-<img src="https://media.tenor.com/BVlawdiY9zIAAAAC/johan-liebert-monster.gif" width="100%" alt="Johan Liebert - Monster" />
+  <img src="public/johan-fire.gif" width="100%" alt="Johan Liebert - Monster" style="border-radius: 4px;" />
 </td>
 
 </tr>
@@ -79,11 +79,28 @@
 ## <img src="public/assets/title1.png" width="22" height="22" align="center" /> About Me
 
 ```typescript
-const satyam = {
+interface SoftwareEngineer {
+    identity: string;
+    pronouns: string;
+    location: string;
+    education: string;
+    currentFocus: string[];
+    openSource: {
+        org: string;
+        repo: string;
+        impact: string;
+    };
+    podiumRecord: string[];
+    languages: string[];
+    arsenal: Record<string, string[]>;
+    philosophy: string;
+}
+
+const satyam: SoftwareEngineer = {
     identity: "Satyam Pandey",
-    pronouns: "He" | "Him",
+    pronouns: "He / Him",
     location: "Mumbai, India",
-    education: "Thadomal Shahani Engineering College (TSEC '28) — CGPA: 8.90/10",
+    education: "Thadomal Shahani Engineering College (TSEC '28) — CGPA: 8.90 / 10",
     
     currentFocus: [
         "CNCF OpenTelemetry Core Development",
@@ -107,19 +124,17 @@ const satyam = {
         "Rank #4 — Elite Coders Winter of Code (5,000+ devs)"
     ],
     
-    code: ["Go", "Modern C++", "Python", "TypeScript", "JavaScript", "Java", "SQL", "Bash"],
+    languages: ["Go", "Modern C++", "Python", "TypeScript", "JavaScript", "Java", "SQL", "Bash"],
     
-    technologies: {
+    arsenal: {
         systemsAndCloud: ["Linux Internals", "Distributed Tracing", "Docker", "Kubernetes", "gRPC", "GitHub Actions"],
-        aiAgentsAndLLMs: ["Model Context Protocol (MCP)", "ReAct Framework", "LangChain", "LangGraph", "Multi-Agent Systems", "PyTorch", "GNNs", "XAI (SHAP/DiCE)"],
+        aiAgentsAndLLMs: ["Model Context Protocol (MCP)", "ReAct Loops", "LangChain", "LangGraph", "Multi-Agent Systems", "PyTorch", "GNNs", "XAI (SHAP/DiCE)"],
         frontEnd: ["Next.js", "React.js", "Three.js", "GSAP", "Framer Motion", "Tailwind CSS", "PWA"],
         backEnd: ["Go Tooling", "Node.js", "Express", "FastAPI", "Spring Boot", "GraphQL"],
         databases: ["Qdrant", "TimescaleDB", "PostgreSQL", "MongoDB", "Redis", "ChromaDB", "FAISS"]
     },
     
-    funFact: "I can build autonomous agent systems in Go AND compile-time AST instrumentations in the same sprint!",
-    askMeAbout: ["Systems Engineering", "OpenTelemetry", "Autonomous Agents (MCP)", "Hackathons", "DSA"],
-    challenge: "Building resilient, zero-overhead systems that scale globally"
+    philosophy: "In the shadows, we build what the world relies on."
 };
 ```
 
@@ -127,15 +142,15 @@ const satyam = {
 
 ## <img src="public/assets/img1.png" width="22" height="22" align="center" /> Featured Flagship Builds
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="8">
 <tr>
 <td width="50%" valign="top">
 
 ### [Themis — Autonomous Multi-Agent OS](https://github.com/SatyamPandey-07/UntrainedModels_Syn3rgy_SatyamUttamPandey)
 `Go` • `Bubble Tea` • `MCP` • `Qdrant` • `SQLite` • `ReAct`
-* Autonomous multi-agent developer system built with a Go TUI and Model Context Protocol (MCP).
+* Autonomous multi-agent developer system built with a responsive Go TUI and Model Context Protocol (MCP).
 * Coordinates specialized agents for orchestration, architecture validation, debugging, testing, and git operations.
-* **Won 1st Prize at SYN3RGY 3.0 National Hackathon (DJ Sanghvi, Mumbai).**
+* **1st Prize Winner — SYN3RGY 3.0 National Hackathon (DJ Sanghvi, Mumbai).**
 
 </td>
 <td width="50%" valign="top">
@@ -143,8 +158,8 @@ const satyam = {
 ### [MEDICA — Oncology Intelligence Platform](https://github.com/SatyamPandey-07/MEDICA)
 `LLMs` • `Knowledge Graphs` • `Hybrid Search` • `FastAPI` • `Next.js`
 * AI-driven oncology research intelligence engine with hybrid semantic search and knowledge graph groundings.
-* Built as a Forward Deployed Engineer at *Augenblick Consulting*.
-* **[GitHub Repository](https://github.com/SatyamPandey-07/MEDICA)**
+* Forward-deployed architecture built during tenure at *Augenblick Consulting*.
+* Real-time biomarker extraction with zero-hallucination verification pipelines.
 
 </td>
 </tr>
@@ -153,16 +168,16 @@ const satyam = {
 
 ### [Gallifrey — AI Structural Health Monitor](https://github.com/aezyus/gallifrey)
 `Python` • `Wavelets` • `VAE` • `TimescaleDB` • `Docker`
-* Real-time anomaly detection over IoT sensor streams using Wavelet transforms and Variational Autoencoders (VAE).
-* **1st Place — Augenblick Hackathon 2026 (won direct summer internship).**
+* Real-time anomaly detection over IoT sensor telemetry streams using continuous Wavelet transforms and Variational Autoencoders (VAE).
+* **1st Place Winner — Augenblick Hackathon 2026 (awarded direct summer engineering internship).**
 
 </td>
 <td width="50%" valign="top">
 
 ### [y.ai — Explainable AI Platform](https://github.com/DataHack4-0/UntrainedModels/)
-`Next.js` • `FastAPI` • `PyTorch` • `GNN` • `SHAP/DiCE` • `Kubernetes`
+`Next.js` • `FastAPI` • `PyTorch` • `GNN` • `SHAP / DiCE` • `Kubernetes`
 * Explainable learning intelligence platform with Graph Neural Networks, BERTopic clustering, LambdaMART ranking, and causal inference.
-* **2nd Runner-Up — DataHacks 4.0 Hackathon (XAI Domain).**
+* **2nd Runner-Up — DataHacks 4.0 Hackathon (XAI Domain, DJSCE).**
 
 </td>
 </tr>
@@ -191,7 +206,7 @@ const satyam = {
 <br/>
 
 <!-- Minimalist Monochrome Snake Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=SNAKE+ATTACK" alt="Title" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=SNAKE+ATTACK" alt="Title" />
 
 <br/>
 
@@ -216,7 +231,8 @@ const satyam = {
 
 </div>
 
-## <img src="https://www.satyampandey.tech/icon1.png" width="22" height="22" align="center" alt="SP" /> Connect with Me
+## <img src="public/sp.png" width="22" height="22" align="center" alt="SP" style="border-radius: 4px;" /> Connect with Me
+
 <p align="center">
   <a href="https://satyampandey.tech/">
     <img src="https://img.shields.io/badge/Portfolio-satyampandey.tech-000000?style=for-the-badge&logoColor=white&labelColor=181717" />
@@ -243,6 +259,8 @@ const satyam = {
   </a>
 </p>
 
+---
+
 ## <img src="public/assets/title2.png" width="22" height="22" align="center" /> Tech Arsenal
 
 <table align="center" width="100%">
@@ -264,7 +282,7 @@ const satyam = {
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">AI/ML & Data Science</h3>
+<h3 align="center">AI / ML & Agent Systems</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark&perline=4" />
   <br/>
@@ -291,24 +309,26 @@ const satyam = {
 
 <br/>
 
-<h3 align="center">Mobile & Desktop</h3>
+<h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,electron,tauri" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c,go,rust,php&theme=dark" />
 </p>
 
 <br/>
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Mobile & Systems</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c,go,rust,php" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,electron,tauri&theme=dark" />
 </p>
 
 <br/>
 
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,yarn,npm,webpack,vite,bash,powershell,vim,linux,ubuntu,windows" />
+  <img src="https://skillicons.dev/icons?i=postman,yarn,npm,webpack,vite,bash,powershell,vim,linux,ubuntu,windows&theme=dark" />
 </p>
+
+---
 
 ## <img src="public/assets/title3.png" width="22" height="22" align="center" /> GitHub Stats
 
@@ -345,10 +365,15 @@ const satyam = {
 
 </div>
 
+---
+
 ## <img src="public/assets/img4.png" width="22" height="22" align="center" /> GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SatyamPandey-07&theme=dark&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </p>
+
+---
 
 ## <img src="public/assets/title3.png" width="22" height="22" align="center" /> Contribution Graph
 
@@ -441,13 +466,13 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 ---
 
-## <img src="public/assets/img1.png" width="22" height="22" align="center" /> Current Focus
+## <img src="public/assets/img1.png" width="22" height="22" align="center" /> Current Focus & Roadmap
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">Learning Path</h3>
+<h3 align="center">Learning & Research Path</h3>
 
 ```yaml
 Systems & Compilers:
@@ -469,7 +494,7 @@ Cloud & Reliability:
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">Project Ideas</h3>
+<h3 align="center">Active Builds & Direction</h3>
 
 ```yaml
 In Progress:
@@ -477,32 +502,33 @@ In Progress:
   - CNCF OpenTelemetry otelc compiler features
   - MEDICA: Oncology Knowledge Graph Intelligence
   
-Planning:
-  - Open Source Contributions (CNCF, Linux Foundation)
-  - Tech Blog Platform
-  - Developer Tools & Libraries
+Open Source Direction:
+  - CNCF & Linux Foundation Core Contributions
+  - Zero-overhead observability tooling
+  - Production agent developer frameworks
   
-Goals:
-  - Build Production-Ready Systems
-  - Win National Hackathons with Execution-First Teams
-  - Mentor the Next Wave of Developers
+Engineering Invariants:
+  - Build production-ready, ultra-resilient systems
+  - Win national hackathons with execution-first teams
+  - Mentor the next wave of engineers
 ```
 
 </td>
 </tr>
 </table>
 
+---
+
 ## <img src="public/assets/img3.png" width="22" height="22" align="center" /> Community & Open Source
 
 ### Knowledge Sharing
-- Regular contributor to CNCF and open-source projects
-- Mentoring aspiring developers in systems, MERN stack, and Python
-- 5x Winner in national hackathons and coding competitions
+* Regular contributor to Cloud Native Computing Foundation (CNCF) and open-source ecosystems.
+* Mentoring aspiring engineers in Go, systems internals, MERN stack, and machine learning pipelines.
+* 5x Winner in national-level hackathons and competitive engineering arenas.
 
 ### Collaboration
-- Open to collaborating on innovative systems and AI projects
-- Available for engineering internships and technical discussions
-- Contact me for technical partnerships and consulting
+* Open to collaborating on high-throughput systems, compiler tooling, and autonomous agent architectures.
+* Available for engineering internships, technical partnerships, and forward-deployed engineering engagements.
 
 ---
 
@@ -629,14 +655,16 @@ Goals:
 
 ---
 
-## <img src="public/assets/title1.png" width="22" height="22" align="center" /> Fun Facts About Me
-- **Coding keeps me alive** – I can sit and build systems for hours
-- Can switch between **Go AST compiler instrumentation**, **Python ML models**, and **React components** seamlessly
-- I believe in **code that performs with zero overhead** and **design that speaks volumes**
+## <img src="public/assets/title1.png" width="22" height="22" align="center" /> Engineering Mindset
+
+* **Systems over superficiality** — Relentless focus on zero overhead, deterministic latency, and compiler-level precision.
+* **Polyglot flexibility** — Seamless context-switching between Go AST compiler engineering, Python ML architectures, and React/Next.js client applications.
+* **Ship fast, scale cleanly** — Rapid execution with uncompromised architecture standards.
+
+---
 
 ## <img src="public/assets/title3.png" width="22" height="22" align="center" /> LeetCode Journey
 
-### LeetCode Badges & Achievements
 <div align="center">
   <a href="https://leetcode.com/u/Satyampandey1802/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=181717" alt="LeetCode" />
@@ -655,34 +683,26 @@ Goals:
   </a>
 </div>
 
-### Coding Stats & Progress
-<div align="center">
+<br/>
 
-<br/><br/>
+<div align="center">
 
 <!-- LeetCode Activity Heatmap -->
 <a href="https://leetcode.com/u/Satyampandey1802/">
   <img src="https://leetcard.jacoblin.cool/Satyampandey1802?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Heatmap" width="90%" />
 </a>
 
+<br/><br/>
+
+<a href="https://leetcode.com/u/Satyampandey1802/">
+  <img src="https://img.shields.io/badge/50%20Days-Badge%202024-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=181717" alt="50 Days Badge" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/Satyampandey1802/">
+  <img src="https://img.shields.io/badge/100%20Days-Badge%202024-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=181717" alt="100 Days Badge" />
+</a>
+
 </div>
-
-### Achievements
-<div align="center">
-
-  <a href="https://leetcode.com/u/Satyampandey1802/">
-    <img src="https://img.shields.io/badge/50%20Days-Badge%202024-000000?style=plastic&logo=leetcode&logoColor=white" alt="50 Days Badge" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/Satyampandey1802/">
-    <img src="https://img.shields.io/badge/100%20Days-Badge%202024-000000?style=plastic&logo=leetcode&logoColor=white" alt="100 Days Badge" />
-  </a>
-</div>
-
-### Coding Consistency
-<p align="center">
-  <em>"Consistency is key to mastering algorithms and data structures!"</em><br>
-</p>
 
 ---
 
@@ -692,47 +712,43 @@ Goals:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Competitive+Programming+on+Codeforces;Rated+Contestant+%7C+saam-pande;Problem+Solving+%7C+Graph+Theory+%7C+DP" alt="CF Typing" />
 
-</div>
-
-### Codeforces Profile Badge
-<div align="center">
+<br/><br/>
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-saam--pande-000000?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=181717)](https://codeforces.com/profile/saam-pande)
+&nbsp;
 [![CF Participate](https://img.shields.io/badge/Contests-Participating-000000?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=181717)](https://codeforces.com/profile/saam-pande)
+&nbsp;
 [![CF Problems](https://img.shields.io/badge/Problems-Solving-000000?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=181717)](https://codeforces.com/profile/saam-pande)
 
-</div>
+<br/><br/>
 
-### Stats Card
-<div align="center">
+<!-- Codeforces Stats & Badge Cards -->
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://codeforces.com/profile/saam-pande">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=saam-pande&theme=dark&force_username=true" alt="Codeforces Stats" width="98%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://codeforces.com/profile/saam-pande">
+        <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=saam-pande&theme=dark&force_username=true" alt="Codeforces Badge" width="98%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- Codeforces Stats Card -->
-<a href="https://codeforces.com/profile/saam-pande">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=saam-pande&theme=dark&force_username=true" alt="Codeforces Stats" width="49%" />
-</a>
-&nbsp;
-<!-- Codeforces Badge Card -->
-<a href="https://codeforces.com/profile/saam-pande">
-  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=saam-pande&theme=dark&force_username=true" alt="Codeforces Badge" width="49%" />
-</a>
-
-</div>
-
-### Rating Graph
-<div align="center">
+<br/>
 
 <!-- Codeforces Rating Graph -->
 <a href="https://codeforces.com/profile/saam-pande">
   <img src="https://codeforces-stats-vlx.vercel.app/api/graph?username=saam-pande&theme=dark" alt="Codeforces Rating Graph" width="90%" />
 </a>
 
-</div>
-
-### Solved by Difficulty
-<div align="center">
+<br/><br/>
 
 <!-- Codeforces Detailed Stats -->
-<table align="center" border="0" cellspacing="10" cellpadding="10">
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="90%">
   <tr>
     <td align="center">
       <a href="https://codeforces.com/profile/saam-pande">
@@ -743,11 +759,6 @@ Goals:
 </table>
 
 </div>
-
-### Competitive Mindset
-<p align="center">
-  <em>"Every problem solved is a step closer to becoming a Grandmaster!"</em><br>
-</p>
 
 ---
 
@@ -770,31 +781,25 @@ Goals:
 
 ---
 
-## Show Some Love!
-
-**Drop a star** on my repositories if you like my work!  
-**Fork** and **contribute** to make them even better!  
-**Share** my projects with your network!  
-
-Let's build something awesome together. Happy coding!  
-
 <div align="center">
 
-**Made by [Satyam Pandey](https://github.com/SatyamPandey-07)**
+**Drop a star** on repositories you find valuable &nbsp;•&nbsp; **Fork & contribute** to push them further &nbsp;•&nbsp; **Share** across your networks
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%" />
+
+<br/>
+
+**Crafted by [Satyam Pandey](https://github.com/SatyamPandey-07)**
 
 *"In the shadows, we build what the world relies on."*
-
-</div>
-
----
-
-<p align="center">
-  <em><b>I love connecting with different people</b> — if you want to say <b>hi, feel free to reach out!</b></em>
-</p>
 
 <br/>
 
 <!-- Crazy Footer Image -->
-<p align="center">
+<a href="https://www.satyampandey.tech/">
   <img src="https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png" width="100%" alt="Footer Art" />
-</p>
+</a>
+
+</div>
