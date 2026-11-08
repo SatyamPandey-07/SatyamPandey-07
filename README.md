@@ -1,35 +1,23 @@
-<!-- ========================================================================= -->
-<!-- MONOCHROME NOIR EDITION // Satyam Pandey                                   -->
-<!-- CNCF OpenTelemetry Core Contributor | 5x National Hackathon Winner        -->
-<!-- Portfolio: https://www.satyampandey.tech/                                 -->
-<!-- ========================================================================= -->
-
 <div align="center">
 
   <!-- Minimal Monochrome Top Border -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%" />
 
   <br/><br/>
 
-  <!-- Heading Banner: Monster // Johan Liebert — Psychological Masterpiece -->
+  <!-- Branded Hero Banner: Monster // Johan Liebert — With Satyam Pandey Typography -->
   <a href="https://www.satyampandey.tech/">
-    <img src="https://media.tenor.com/61WjPx9EQGoAAAAC/johan-liebert.gif" width="100%" alt="Monster // Johan Liebert — In the shadows, we build what the world relies on." style="max-height: 400px; object-fit: cover; border-radius: 8px;" />
+    <img src="public/satyam-monster-banner.gif" width="100%" alt="Satyam Pandey — Monster Noir Banner" style="border-radius: 6px;" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- Animated Header Capsule (Monochrome Noir) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Satyam%20Pandey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Systems%20%26%20Go%20Engineer%20%7C%20CNCF%20Contributor%20%7C%205x%20Hackathon%20Winner&descAlignY=58&descAlign=50" width="100%" />
+  <!-- Crisp White Typing Console -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=780&lines=CNCF+OpenTelemetry+Core+Contributor+(15%2B+PRs);5x+National+Hackathon+Winner;Building+Autonomous+Agents+%26+Systems+in+Go;Model+Context+Protocol+(MCP)+%26+Tracing;In+the+shadows%2C+we+build+what+the+world+relies+on." alt="Typing SVG" />
 
-  <!-- Crisp White Typing Console (No Emojis) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=780&lines=CNCF+OpenTelemetry+Core+Contributor+(15%2B+PRs);5x+National+Hackathon+Winner;Building+Autonomous+Agents+%26+Systems+in+Go;Model+Context+Protocol+(MCP)+%26+Tracing;In+the+shadows%2C+we+build+what+the+world+relies+on." alt="Typing SVG" />
+  <br/><br/>
 
-</div>
-
-<br/>
-
-<!-- Quick GitHub Stats Badges (Black & White Edition) -->
-<div align="center">
+  <!-- Quick GitHub Stats Badges (Monochrome Black & White) -->
   <a href="https://satyampandey.tech/">
     <img src="https://img.shields.io/badge/Portfolio-satyampandey.tech-000000?style=for-the-badge&logoColor=white&labelColor=181717" alt="Portfolio" />
   </a>
@@ -61,6 +49,12 @@
   <a href="https://github.com/SatyamPandey-07?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/SatyamPandey-07&query=$.forks&label=Forks&style=for-the-badge&color=000000&labelColor=181717&logo=github&logoColor=white" alt="Total Forks" />
   </a>
+
+  <br/><br/>
+
+  <!-- Minimal Hairline Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%" />
+
 </div>
 
 <br/>
@@ -82,7 +76,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title1.png" width="22" height="22" /> About Me
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title1.png" width="22" height="22" align="center" /> About Me
 
 ```typescript
 const satyam = {
@@ -131,7 +125,7 @@ const satyam = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img1.png" width="22" height="22" /> Featured Flagship Builds
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img1.png" width="22" height="22" align="center" /> Featured Flagship Builds
 
 <table width="100%">
 <tr>
@@ -176,7 +170,7 @@ const satyam = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img3.png" width="22" height="22" /> Organizations Contributed To
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img3.png" width="22" height="22" align="center" /> Organizations Contributed To
 
 <br/>
 
@@ -196,13 +190,13 @@ const satyam = {
 
 <br/>
 
-<!-- Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=SNAKE+ATTACK" alt="Title" />
+<!-- Minimalist Monochrome Snake Title -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=SNAKE+ATTACK" alt="Title" />
 
 <br/>
 
 <!-- Top Border -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%"/>
 
 <br/>
 
@@ -216,7 +210,7 @@ const satyam = {
 <br/>
 
 <!-- Bottom Border -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=1" width="100%"/>
 
 <br/>
 
@@ -249,7 +243,7 @@ const satyam = {
   </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title2.png" width="22" height="22" /> Tech Arsenal
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title2.png" width="22" height="22" align="center" /> Tech Arsenal
 
 <table align="center" width="100%">
 <tr>
@@ -316,7 +310,7 @@ const satyam = {
   <img src="https://skillicons.dev/icons?i=postman,yarn,npm,webpack,vite,bash,powershell,vim,linux,ubuntu,windows" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" align="center" /> GitHub Stats
 
 <div align="center">
 
@@ -351,12 +345,12 @@ const satyam = {
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img4.png" width="22" height="22" /> GitHub Trophies
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img4.png" width="22" height="22" align="center" /> GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SatyamPandey-07&theme=dark&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" /> Contribution Graph
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" align="center" /> Contribution Graph
 
 <div align="center">
   <img src="https://github.pumbas.net/api/contributions/SatyamPandey-07?colour=ffffff&dotColour=ffffff&bgColour=0d1117" width="100%" alt="Satyam's Contribution Graph" />
@@ -364,7 +358,7 @@ const satyam = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img2.png" width="22" height="22" /> WakaTime & Dev Metrics
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img2.png" width="22" height="22" align="center" /> WakaTime & Dev Metrics
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2024%20mins-000000?style=flat&labelColor=181717)
@@ -447,7 +441,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img1.png" width="22" height="22" /> Current Focus
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img1.png" width="22" height="22" align="center" /> Current Focus
 
 <table align="center" width="100%">
 <tr>
@@ -498,7 +492,7 @@ Goals:
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img3.png" width="22" height="22" /> Community & Open Source
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img3.png" width="22" height="22" align="center" /> Community & Open Source
 
 ### Knowledge Sharing
 - Regular contributor to CNCF and open-source projects
@@ -512,7 +506,7 @@ Goals:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img4.png" width="22" height="22" /> GirlScript Summer of Code (GSSoC) Badges
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img4.png" width="22" height="22" align="center" /> GirlScript Summer of Code (GSSoC) Badges
 
 <div align="center">
 
@@ -635,12 +629,12 @@ Goals:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title1.png" width="22" height="22" /> Fun Facts About Me
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title1.png" width="22" height="22" align="center" /> Fun Facts About Me
 - **Coding keeps me alive** – I can sit and build systems for hours
 - Can switch between **Go AST compiler instrumentation**, **Python ML models**, and **React components** seamlessly
 - I believe in **code that performs with zero overhead** and **design that speaks volumes**
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" /> LeetCode Journey
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" align="center" /> LeetCode Journey
 
 ### LeetCode Badges & Achievements
 <div align="center">
@@ -692,7 +686,7 @@ Goals:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" /> Codeforces Journey
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" align="center" /> Codeforces Journey
 
 <div align="center">
 
@@ -760,7 +754,7 @@ Goals:
 <!-- ==================== SPOTIFY & CODING SOUNDTRACK ==================== -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img2.png" width="22" height="22" /> Coding Soundtrack
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img2.png" width="22" height="22" align="center" /> Coding Soundtrack
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ewjowcq5m7qcbwv5g5aouia74i&redirect=true" target="_blank">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ewjowcq5m7qcbwv5g5aouia74i&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=true" alt="Spotify Now Playing" />
@@ -795,13 +789,8 @@ Let's build something awesome together. Happy coding!
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" align="center" />&nbsp;&nbsp;
   <em><b>I love connecting with different people</b> — if you want to say <b>hi, feel free to reach out!</b></em>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn" width="100%" />
-</div>
 
 <br/>
 
