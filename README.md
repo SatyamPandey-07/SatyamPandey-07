@@ -65,7 +65,7 @@
 
 <br/>
 
-<!-- L & Light from Death Note Dual Aesthetic Display Table -->
+<!-- L & Johan Liebert Dual Aesthetic Display Table -->
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
   
@@ -74,7 +74,7 @@
 </td>
 
 <td width="50%" align="center">
-<img src="https://media.tenor.com/8qp_-7iVWhMAAAAC/death-note-light-yagami.gif" width="100%" alt="Light Yagami - Death Note" />
+<img src="https://media.tenor.com/BVlawdiY9zIAAAAC/johan-liebert-monster.gif" width="100%" alt="Johan Liebert - Monster" />
 </td>
 
 </tr>
@@ -222,7 +222,7 @@ const satyam = {
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/icon.png" width="20" height="20" /> Connect with Me
+## <img src="https://www.satyampandey.tech/icon1.png" width="22" height="22" align="center" alt="SP" /> Connect with Me
 <p align="center">
   <a href="https://satyampandey.tech/">
     <img src="https://img.shields.io/badge/Portfolio-satyampandey.tech-000000?style=for-the-badge&logoColor=white&labelColor=181717" />
