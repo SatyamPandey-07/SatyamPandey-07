@@ -1,5 +1,5 @@
 <!-- ========================================================================= -->
-<!-- 🕷️ MONOCHROME NOIR EDITION // Satyam Pandey                               -->
+<!-- MONOCHROME NOIR EDITION // Satyam Pandey                                   -->
 <!-- CNCF OpenTelemetry Core Contributor | 5x National Hackathon Winner        -->
 <!-- Portfolio: https://www.satyampandey.tech/                                 -->
 <!-- ========================================================================= -->
@@ -21,8 +21,8 @@
   <!-- Animated Header Capsule (Monochrome Noir) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Satyam%20Pandey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Systems%20%26%20Go%20Engineer%20%7C%20CNCF%20Contributor%20%7C%205x%20Hackathon%20Winner&descAlignY=58&descAlign=50" width="100%" />
 
-  <!-- Crisp White Typing Console -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=780&lines=CNCF+OpenTelemetry+Core+Contributor+%F0%9F%8C%90;5x+National+Hackathon+Winner+%F0%9F%8F%86;Building+Autonomous+Agents+%26+Systems+in+Go+%E2%9A%A1;Model+Context+Protocol+(MCP)+%26+Tracing+%F0%9F%9A%80;In+the+shadows%2C+we+build+what+the+world+relies+on.+%F0%9F%95%B8%EF%B8%8F" alt="Typing SVG" />
+  <!-- Crisp White Typing Console (No Emojis) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=780&lines=CNCF+OpenTelemetry+Core+Contributor+(15%2B+PRs);5x+National+Hackathon+Winner;Building+Autonomous+Agents+%26+Systems+in+Go;Model+Context+Protocol+(MCP)+%26+Tracing;In+the+shadows%2C+we+build+what+the+world+relies+on." alt="Typing SVG" />
 
 </div>
 
@@ -82,13 +82,13 @@
 
 <br/>
 
-## 🎯 About Me
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title1.png" width="22" height="22" /> About Me
 
 ```typescript
 const satyam = {
     identity: "Satyam Pandey",
     pronouns: "He" | "Him",
-    location: "Mumbai, India 🇮🇳",
+    location: "Mumbai, India",
     education: "Thadomal Shahani Engineering College (TSEC '28) — CGPA: 8.90/10",
     
     currentFocus: [
@@ -105,12 +105,12 @@ const satyam = {
     },
 
     podiumRecord: [
-        "🏆 1st Prize — SYN3RGY 3.0 National Hackathon (Themis Multi-Agent OS in Go)",
-        "🏆 1st Place — Augenblick National Hackathon 2026 (Gallifrey VAE Anomaly Detection)",
-        "🏆 1st Place — IdeaForge National Hackathon 2026",
-        "🥉 2nd Runner-Up — DataHacks 4.0 Hackathon (y.ai XAI Platform, DJSCE)",
-        "🥇 Top 3 Contributor Pan-India — GirlScript Summer of Code (10,000+ devs)",
-        "🎖️ Rank #4 — Elite Coders Winter of Code (5,000+ devs)"
+        "1st Prize — SYN3RGY 3.0 National Hackathon (Themis Multi-Agent OS in Go)",
+        "1st Place — Augenblick National Hackathon 2026 (Gallifrey VAE Anomaly Detection)",
+        "1st Place — IdeaForge National Hackathon 2026",
+        "2nd Runner-Up — DataHacks 4.0 Hackathon (y.ai XAI Platform, DJSCE)",
+        "Top 3 Contributor Pan-India — GirlScript Summer of Code (10,000+ devs)",
+        "Rank #4 — Elite Coders Winter of Code (5,000+ devs)"
     ],
     
     code: ["Go", "Modern C++", "Python", "TypeScript", "JavaScript", "Java", "SQL", "Bash"],
@@ -123,7 +123,7 @@ const satyam = {
         databases: ["Qdrant", "TimescaleDB", "PostgreSQL", "MongoDB", "Redis", "ChromaDB", "FAISS"]
     },
     
-    funFact: "I can build autonomous agent systems in Go AND compile-time AST instrumentations in the same sprint! 🚀",
+    funFact: "I can build autonomous agent systems in Go AND compile-time AST instrumentations in the same sprint!",
     askMeAbout: ["Systems Engineering", "OpenTelemetry", "Autonomous Agents (MCP)", "Hackathons", "DSA"],
     challenge: "Building resilient, zero-overhead systems that scale globally"
 };
@@ -131,22 +131,22 @@ const satyam = {
 
 ---
 
-## 🏆 Featured Flagship Builds
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img1.png" width="22" height="22" /> Featured Flagship Builds
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Themis — Autonomous Multi-Agent OS](https://github.com/SatyamPandey-07/UntrainedModels_Syn3rgy_SatyamUttamPandey)
+### [Themis — Autonomous Multi-Agent OS](https://github.com/SatyamPandey-07/UntrainedModels_Syn3rgy_SatyamUttamPandey)
 `Go` • `Bubble Tea` • `MCP` • `Qdrant` • `SQLite` • `ReAct`
 * Autonomous multi-agent developer system built with a Go TUI and Model Context Protocol (MCP).
 * Coordinates specialized agents for orchestration, architecture validation, debugging, testing, and git operations.
-* **🏆 Won 1st Prize at SYN3RGY 3.0 National Hackathon (DJ Sanghvi, Mumbai).**
+* **Won 1st Prize at SYN3RGY 3.0 National Hackathon (DJ Sanghvi, Mumbai).**
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 [MEDICA — Oncology Intelligence Platform](https://github.com/SatyamPandey-07/MEDICA)
+### [MEDICA — Oncology Intelligence Platform](https://github.com/SatyamPandey-07/MEDICA)
 `LLMs` • `Knowledge Graphs` • `Hybrid Search` • `FastAPI` • `Next.js`
 * AI-driven oncology research intelligence engine with hybrid semantic search and knowledge graph groundings.
 * Built as a Forward Deployed Engineer at *Augenblick Consulting*.
@@ -157,18 +157,18 @@ const satyam = {
 <tr>
 <td width="50%" valign="top">
 
-### 📡 [Gallifrey — AI Structural Health Monitor](https://github.com/aezyus/gallifrey)
+### [Gallifrey — AI Structural Health Monitor](https://github.com/aezyus/gallifrey)
 `Python` • `Wavelets` • `VAE` • `TimescaleDB` • `Docker`
 * Real-time anomaly detection over IoT sensor streams using Wavelet transforms and Variational Autoencoders (VAE).
-* **🏆 1st Place — Augenblick Hackathon 2026 (won direct summer internship).**
+* **1st Place — Augenblick Hackathon 2026 (won direct summer internship).**
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [y.ai — Explainable AI Platform](https://github.com/DataHack4-0/UntrainedModels/)
+### [y.ai — Explainable AI Platform](https://github.com/DataHack4-0/UntrainedModels/)
 `Next.js` • `FastAPI` • `PyTorch` • `GNN` • `SHAP/DiCE` • `Kubernetes`
 * Explainable learning intelligence platform with Graph Neural Networks, BERTopic clustering, LambdaMART ranking, and causal inference.
-* **🥈 2nd Runner-Up — DataHacks 4.0 Hackathon (XAI Domain).**
+* **2nd Runner-Up — DataHacks 4.0 Hackathon (XAI Domain).**
 
 </td>
 </tr>
@@ -176,7 +176,7 @@ const satyam = {
 
 ---
 
-## 🏛️ Organizations Contributed To
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img3.png" width="22" height="22" /> Organizations Contributed To
 
 <br/>
 
@@ -184,9 +184,9 @@ const satyam = {
 
 | Domain | Direct Organization Links |
 | :--- | :--- |
-| ☁️ **CNCF & Systems** | [**@open-telemetry**](https://github.com/open-telemetry) • [**@cilium**](https://github.com/cilium) • [**@kyverno**](https://github.com/kyverno) • [**@kubeflow**](https://github.com/kubeflow) • [**@prometheus**](https://github.com/prometheus) • [**@jaegertracing**](https://github.com/jaegertracing) • [**@meshery**](https://github.com/meshery) |
-| 🛡️ **Foundations & Tooling** | [**@apache**](https://github.com/apache) • [**@keploy**](https://github.com/keploy) • [**@podman-container-tools**](https://github.com/podman-container-tools) • [**@OWASP**](https://github.com/OWASP) • [**@openMF**](https://github.com/openMF) |
-| 🚀 **Ecosystem & Community** | [**@checkora**](https://github.com/checkora) • [**@firstcontributions**](https://github.com/firstcontributions) • [**@conflux-labs**](https://github.com/conflux-labs) • [**@DataHack4-0**](https://github.com/DataHack4-0) • [**@learning-unlimited**](https://github.com/learning-unlimited) |
+| **CNCF & Systems** | [**@open-telemetry**](https://github.com/open-telemetry) • [**@cilium**](https://github.com/cilium) • [**@kyverno**](https://github.com/kyverno) • [**@kubeflow**](https://github.com/kubeflow) • [**@prometheus**](https://github.com/prometheus) • [**@jaegertracing**](https://github.com/jaegertracing) • [**@meshery**](https://github.com/meshery) |
+| **Foundations & Tooling** | [**@apache**](https://github.com/apache) • [**@keploy**](https://github.com/keploy) • [**@podman-container-tools**](https://github.com/podman-container-tools) • [**@OWASP**](https://github.com/OWASP) • [**@openMF**](https://github.com/openMF) |
+| **Ecosystem & Community** | [**@checkora**](https://github.com/checkora) • [**@firstcontributions**](https://github.com/firstcontributions) • [**@conflux-labs**](https://github.com/conflux-labs) • [**@DataHack4-0**](https://github.com/DataHack4-0) • [**@learning-unlimited**](https://github.com/learning-unlimited) |
 
 </div>
 
@@ -222,7 +222,7 @@ const satyam = {
 
 </div>
 
-## 🌍 **Connect with Me**
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/icon.png" width="20" height="20" /> Connect with Me
 <p align="center">
   <a href="https://satyampandey.tech/">
     <img src="https://img.shields.io/badge/Portfolio-satyampandey.tech-000000?style=for-the-badge&logoColor=white&labelColor=181717" />
@@ -249,20 +249,20 @@ const satyam = {
   </a>
 </p>
 
-## 🛠️ Tech Arsenal
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title2.png" width="22" height="22" /> Tech Arsenal
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🎨 Frontend Universe</h3>
+<h3 align="center">Frontend Universe</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,typescript,javascript,html,css,sass,tailwind,bootstrap,redux,vite,threejs&theme=dark&perline=7" />
 </p>
 
 <br/>
 
-<h3 align="center">🔮 Backend & Database</h3>
+<h3 align="center">Backend & Database</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,fastapi,java,spring,mongodb,postgresql,mysql,redis,graphql,prisma&theme=dark&perline=7" />
 </p>
@@ -270,7 +270,7 @@ const satyam = {
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 AI/ML & Data Science</h3>
+<h3 align="center">AI/ML & Data Science</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark&perline=4" />
   <br/>
@@ -286,7 +286,7 @@ const satyam = {
 
 <br/>
 
-<h3 align="center">☁️ Cloud & DevOps</h3>
+<h3 align="center">Cloud & DevOps</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,vercel,netlify,heroku,git,github,gitlab,jenkins&theme=dark&perline=6" />
 </p>
@@ -297,26 +297,26 @@ const satyam = {
 
 <br/>
 
-<h3 align="center">📱 Mobile & Desktop</h3>
+<h3 align="center">Mobile & Desktop</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,electron,tauri" />
 </p>
 
 <br/>
 
-<h3 align="center">💻 Programming Languages</h3>
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c,go,rust,php" />
 </p>
 
 <br/>
 
-<h3 align="center">🛠️ Tools & Platforms</h3>
+<h3 align="center">Tools & Platforms</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman,yarn,npm,webpack,vite,bash,powershell,vim,linux,ubuntu,windows" />
 </p>
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" /> GitHub Stats
 
 <div align="center">
 
@@ -351,12 +351,12 @@ const satyam = {
 
 </div>
 
-## 🎖️ GitHub Trophies
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img4.png" width="22" height="22" /> GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SatyamPandey-07&theme=dark&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </p>
 
-## 📈 Contribution Graph
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" /> Contribution Graph
 
 <div align="center">
   <img src="https://github.pumbas.net/api/contributions/SatyamPandey-07?colour=ffffff&dotColour=ffffff&bgColour=0d1117" width="100%" alt="Satyam's Contribution Graph" />
@@ -364,32 +364,32 @@ const satyam = {
 
 ---
 
-## 📈 **WakaTime & Dev Metrics**
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img2.png" width="22" height="22" /> WakaTime & Dev Metrics
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2024%20mins-000000?style=flat&labelColor=181717)
 
-**🐱 My GitHub Data** 
+**My GitHub Data** 
 
-> 📦 1.3 MB Used in GitHub's Storage 
+> 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 11,228 Contributions in the Year 2026
+> 11,228 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> Not Opted to Hire
  > 
-> 📜 155 Public Repositories 
+> 155 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**Early Schedule** 
 
 ```text
-🌞 Morning                1190 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-🌆 Daytime                60382 commits       ███████████████████████░░   93.43 % 
-🌃 Evening                1005 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-🌙 Night                  2052 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Morning                   1190 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Daytime                   60382 commits       ███████████████████████░░   93.43 % 
+Evening                   1005 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Night                     2052 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
-📅 **I'm Most Productive on Friday** 
+**Most Productive on Friday** 
 
 ```text
 Monday                   526 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
@@ -402,34 +402,34 @@ Sunday                   820 commits         ░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+**This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Kolkata
+Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
+Programming Languages: 
 Other                    39 mins             ████████░░░░░░░░░░░░░░░░░   32.14 % 
 Python                   32 mins             ███████░░░░░░░░░░░░░░░░░░   26.38 % 
 Go                       31 mins             ███████░░░░░░░░░░░░░░░░░░   26.10 % 
 Text                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
-🔥 Editors: 
+Editors: 
 Antigravity IDE          1 hr 8 mins         ██████████████░░░░░░░░░░░   56.07 % 
 Antigravity Desktop      53 mins             ███████████░░░░░░░░░░░░░░   43.93 % 
 
-🐱‍💻 Projects: 
+Projects: 
 STATS PRAC DATASETS      45 mins             █████████░░░░░░░░░░░░░░░░   37.58 % 
 opentelemetry-go-compile-30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
 Unknown Project          29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
 WorkSphere               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
 scratch                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
-💻 Operating System: 
+Operating System: 
 Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript** 
+**Repositories by Language** 
 
 ```text
 TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
@@ -447,13 +447,13 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 ---
 
-## 🎯 Current Focus
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img1.png" width="22" height="22" /> Current Focus
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🚀 Learning Path</h3>
+<h3 align="center">Learning Path</h3>
 
 ```yaml
 Systems & Compilers:
@@ -475,7 +475,7 @@ Cloud & Reliability:
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">💡 Project Ideas</h3>
+<h3 align="center">Project Ideas</h3>
 
 ```yaml
 In Progress:
@@ -498,24 +498,25 @@ Goals:
 </tr>
 </table>
 
-## 🌟 **Community & Open Source**
-### 📚 **Knowledge Sharing**
-- 🔗 Regular contributor to CNCF and open-source projects
-- 🎯 Mentoring aspiring developers in systems, MERN stack, and Python
-- 🏆 5x Winner in national hackathons and coding competitions
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img3.png" width="22" height="22" /> Community & Open Source
 
-### 🤝 **Collaboration**
-- 💡 Open to collaborating on innovative systems and AI projects
-- 🌍 Available for engineering internships and technical discussions
-- 📞 Contact me for technical partnerships and consulting
+### Knowledge Sharing
+- Regular contributor to CNCF and open-source projects
+- Mentoring aspiring developers in systems, MERN stack, and Python
+- 5x Winner in national hackathons and coding competitions
+
+### Collaboration
+- Open to collaborating on innovative systems and AI projects
+- Available for engineering internships and technical discussions
+- Contact me for technical partnerships and consulting
 
 ---
 
-## 🏆 **GirlScript Summer of Code (GSSoC) Badges**
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img4.png" width="22" height="22" /> GirlScript Summer of Code (GSSoC) Badges
 
 <div align="center">
 
-<h3 align="center">🌟 Top Achievements</h3>
+<h3 align="center">Top Achievements</h3>
 
 <table align="center" border="0" cellpadding="5" cellspacing="5">
   <tr align="center">
@@ -558,7 +559,7 @@ Goals:
 
 <br/>
 
-<h3 align="center">⚡ Bounties & Streaks</h3>
+<h3 align="center">Bounties & Streaks</h3>
 
 <table align="center" border="0" cellpadding="5" cellspacing="5">
   <tr align="center">
@@ -595,7 +596,7 @@ Goals:
 
 <br/>
 
-<h3 align="center">🗺️ Journey & Roles</h3>
+<h3 align="center">Journey & Roles</h3>
 
 <table align="center" border="0" cellpadding="5" cellspacing="5">
   <tr align="center">
@@ -634,14 +635,14 @@ Goals:
 
 ---
 
-## 🎯 **Fun Facts About Me**  
-✅ **Coding keeps me alive** – I can sit and build systems for hours  
-✅ Can switch between **Go AST compiler instrumentation**, **Python ML models**, and **React components** seamlessly  
-✅ I believe in **code that performs with zero overhead** and **design that speaks volumes**  
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title1.png" width="22" height="22" /> Fun Facts About Me
+- **Coding keeps me alive** – I can sit and build systems for hours
+- Can switch between **Go AST compiler instrumentation**, **Python ML models**, and **React components** seamlessly
+- I believe in **code that performs with zero overhead** and **design that speaks volumes**
 
-## 📊 **LeetCode Journey**
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" /> LeetCode Journey
 
-### 🎯 **LeetCode Badges & Achievements**
+### LeetCode Badges & Achievements
 <div align="center">
   <a href="https://leetcode.com/u/Satyampandey1802/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=181717" alt="LeetCode" />
@@ -660,7 +661,7 @@ Goals:
   </a>
 </div>
 
-### 📈 **Coding Stats & Progress**
+### Coding Stats & Progress
 <div align="center">
 
 <br/><br/>
@@ -672,7 +673,7 @@ Goals:
 
 </div>
 
-### 🎖️ **Achievements**
+### Achievements
 <div align="center">
 
   <a href="https://leetcode.com/u/Satyampandey1802/">
@@ -684,22 +685,22 @@ Goals:
   </a>
 </div>
 
-### 💪 **Coding Consistency**
+### Coding Consistency
 <p align="center">
   <em>"Consistency is key to mastering algorithms and data structures!"</em><br>
 </p>
 
 ---
 
-## ⚡ **Codeforces Journey**
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" /> Codeforces Journey
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Competitive+Programming+on+Codeforces+%F0%9F%9A%80;Rated+Contestant+%7C+saam-pande;Problem+Solving+%7C+Graph+Theory+%7C+DP" alt="CF Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Competitive+Programming+on+Codeforces;Rated+Contestant+%7C+saam-pande;Problem+Solving+%7C+Graph+Theory+%7C+DP" alt="CF Typing" />
 
 </div>
 
-### 🎯 **Codeforces Profile Badge**
+### Codeforces Profile Badge
 <div align="center">
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-saam--pande-000000?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=181717)](https://codeforces.com/profile/saam-pande)
@@ -708,7 +709,7 @@ Goals:
 
 </div>
 
-### 📊 **Stats Card**
+### Stats Card
 <div align="center">
 
 <!-- Codeforces Stats Card -->
@@ -723,7 +724,7 @@ Goals:
 
 </div>
 
-### 📈 **Rating Graph**
+### Rating Graph
 <div align="center">
 
 <!-- Codeforces Rating Graph -->
@@ -733,7 +734,7 @@ Goals:
 
 </div>
 
-### 🏆 **Solved by Difficulty**
+### Solved by Difficulty
 <div align="center">
 
 <!-- Codeforces Detailed Stats -->
@@ -749,17 +750,17 @@ Goals:
 
 </div>
 
-### 💪 **Competitive Mindset**
+### Competitive Mindset
 <p align="center">
   <em>"Every problem solved is a step closer to becoming a Grandmaster!"</em><br>
 </p>
 
 ---
 
-<!-- ==================== 🎧 SPOTIFY & CODING SOUNDTRACK ==================== -->
+<!-- ==================== SPOTIFY & CODING SOUNDTRACK ==================== -->
 <div align="center">
 
-## 🎧 **Soundtrack to My Code & Systems**
+## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img2.png" width="22" height="22" /> Coding Soundtrack
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ewjowcq5m7qcbwv5g5aouia74i&redirect=true" target="_blank">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ewjowcq5m7qcbwv5g5aouia74i&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=true" alt="Spotify Now Playing" />
@@ -775,24 +776,36 @@ Goals:
 
 ---
 
-## 💖 **Show Some Love!**
+## Show Some Love!
 
-💖 **Drop a star** ⭐ on my repositories if you like my work! 🚀  
-🤝 **Fork** and **contribute** to make them even better!  
-📢 **Share** my projects with your network!  
+**Drop a star** on my repositories if you like my work!  
+**Fork** and **contribute** to make them even better!  
+**Share** my projects with your network!  
 
-Let's build something awesome together. Happy coding! 🎉  
+Let's build something awesome together. Happy coding!  
 
 <div align="center">
 
-**🌟 Made with ❤️ by [Satyam Pandey](https://github.com/SatyamPandey-07) 🌟**
+**Made by [Satyam Pandey](https://github.com/SatyamPandey-07)**
 
-*"In the shadows, we build what the world relies on."* 🕷️
+*"In the shadows, we build what the world relies on."*
 
 </div>
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" align="center" />&nbsp;&nbsp;
+  <em><b>I love connecting with different people</b> — if you want to say <b>hi, feel free to reach out!</b></em>
+</p>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff&animation=fadeIn" width="100%" />
 </div>
+
+<br/>
+
+<!-- Crazy Footer Image -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png" width="100%" alt="Footer Art" />
+</p>
