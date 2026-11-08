@@ -76,7 +76,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title1.png" width="22" height="22" align="center" /> About Me
+## <img src="public/assets/title1.png" width="22" height="22" align="center" /> About Me
 
 ```typescript
 const satyam = {
@@ -125,7 +125,7 @@ const satyam = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img1.png" width="22" height="22" align="center" /> Featured Flagship Builds
+## <img src="public/assets/img1.png" width="22" height="22" align="center" /> Featured Flagship Builds
 
 <table width="100%">
 <tr>
@@ -170,7 +170,7 @@ const satyam = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img3.png" width="22" height="22" align="center" /> Organizations Contributed To
+## <img src="public/assets/img3.png" width="22" height="22" align="center" /> Organizations Contributed To
 
 <br/>
 
@@ -243,7 +243,7 @@ const satyam = {
   </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title2.png" width="22" height="22" align="center" /> Tech Arsenal
+## <img src="public/assets/title2.png" width="22" height="22" align="center" /> Tech Arsenal
 
 <table align="center" width="100%">
 <tr>
@@ -310,7 +310,7 @@ const satyam = {
   <img src="https://skillicons.dev/icons?i=postman,yarn,npm,webpack,vite,bash,powershell,vim,linux,ubuntu,windows" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" align="center" /> GitHub Stats
+## <img src="public/assets/title3.png" width="22" height="22" align="center" /> GitHub Stats
 
 <div align="center">
 
@@ -345,12 +345,12 @@ const satyam = {
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img4.png" width="22" height="22" align="center" /> GitHub Trophies
+## <img src="public/assets/img4.png" width="22" height="22" align="center" /> GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SatyamPandey-07&theme=dark&no-bg=true&no-frame=true&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" align="center" /> Contribution Graph
+## <img src="public/assets/title3.png" width="22" height="22" align="center" /> Contribution Graph
 
 <div align="center">
   <img src="https://github.pumbas.net/api/contributions/SatyamPandey-07?colour=ffffff&dotColour=ffffff&bgColour=0d1117" width="100%" alt="Satyam's Contribution Graph" />
@@ -358,7 +358,7 @@ const satyam = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img2.png" width="22" height="22" align="center" /> WakaTime & Dev Metrics
+## <img src="public/assets/img2.png" width="22" height="22" align="center" /> WakaTime & Dev Metrics
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2024%20mins-000000?style=flat&labelColor=181717)
@@ -441,7 +441,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img1.png" width="22" height="22" align="center" /> Current Focus
+## <img src="public/assets/img1.png" width="22" height="22" align="center" /> Current Focus
 
 <table align="center" width="100%">
 <tr>
@@ -492,7 +492,7 @@ Goals:
 </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img3.png" width="22" height="22" align="center" /> Community & Open Source
+## <img src="public/assets/img3.png" width="22" height="22" align="center" /> Community & Open Source
 
 ### Knowledge Sharing
 - Regular contributor to CNCF and open-source projects
@@ -506,7 +506,7 @@ Goals:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img4.png" width="22" height="22" align="center" /> GirlScript Summer of Code (GSSoC) Badges
+## <img src="public/assets/img4.png" width="22" height="22" align="center" /> GirlScript Summer of Code (GSSoC) Badges
 
 <div align="center">
 
@@ -629,12 +629,12 @@ Goals:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title1.png" width="22" height="22" align="center" /> Fun Facts About Me
+## <img src="public/assets/title1.png" width="22" height="22" align="center" /> Fun Facts About Me
 - **Coding keeps me alive** – I can sit and build systems for hours
 - Can switch between **Go AST compiler instrumentation**, **Python ML models**, and **React components** seamlessly
 - I believe in **code that performs with zero overhead** and **design that speaks volumes**
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" align="center" /> LeetCode Journey
+## <img src="public/assets/title3.png" width="22" height="22" align="center" /> LeetCode Journey
 
 ### LeetCode Badges & Achievements
 <div align="center">
@@ -686,7 +686,7 @@ Goals:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/title3.png" width="22" height="22" align="center" /> Codeforces Journey
+## <img src="public/assets/title3.png" width="22" height="22" align="center" /> Codeforces Journey
 
 <div align="center">
 
@@ -754,7 +754,7 @@ Goals:
 <!-- ==================== SPOTIFY & CODING SOUNDTRACK ==================== -->
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/OptimusPrime-45/OptimusPrime-45/main/assets/img2.png" width="22" height="22" align="center" /> Coding Soundtrack
+## <img src="public/assets/img2.png" width="22" height="22" align="center" /> Coding Soundtrack
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ewjowcq5m7qcbwv5g5aouia74i&redirect=true" target="_blank">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ewjowcq5m7qcbwv5g5aouia74i&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=true" alt="Spotify Now Playing" />
